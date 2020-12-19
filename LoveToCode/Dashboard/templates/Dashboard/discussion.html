@@ -1,0 +1,45 @@
+<!DOCTYPE html> {% load static %}
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Discussion</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/question_header.css' %}" />
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/question.css' %}" />
+    <!-- <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/css/bootstrap.min.css' %}" /> -->
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/discussion.css' %}" />
+    <script src="{% static 'ProjectDashboard/ckeditor/ckeditor.js' %}"></script>
+</head>
+
+<body>
+    {% include "Dashboard/question_header.html" %}
+    <br />
+    <form method="post">{% csrf_token %}
+        <textarea name="message" id="editor1"><p>Ask your doubts here....!</p></textarea>
+        <script>
+            CKEDITOR.replace('editor1');
+        </script>
+        </p>
+        <p style="float: right;">
+            <input type="submit">
+            </input>
+        </p>
+    </form>
+    <!-- The comments starts from here -->
+    <div class="comments">
+        {% for discussion in discussions %}
+        <div id="p">
+            {{discussion.0|safe}}
+            <p style="float:right">
+                <b>By : {{discussion.1}}</b>
+            </p>
+            <br />
+        </div>
+        <br /> {% endfor %}
+    </div>
+    <script src="{% static 'ProjectDashboard/jquery/aui-min.js' %}"></script>
+</body>
+
+</html>

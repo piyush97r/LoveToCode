@@ -1,0 +1,5 @@
+0|Hello, World.....!
+1|Simple Array Sum....!
+2|Compare the Triplets.....!
+3|A Very Big Sum....!
+4|Mini-Max Sum....!

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />    
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/question.css' %}" />
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/question_header.css' %}" />
+    <script src="main.js"></script>
+</head>
+<body>
+    {% include "Dashboard/question_header.html" %}
+    <div>
+    You will not get any points for this is question if you see the answer.
+    </div>
+    <script src="{% static 'ProjectDashboard/jquery/aui-min.js' %}"></script>
+    <script src="{% static 'ProjectDashboard/jquery/jquery-3.3.1.min.js' %}"></script>
+    <script src="{% static 'ProjectDashboard/question.js' %}"></script>
+</body>
+</html>

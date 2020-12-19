@@ -1,0 +1,70 @@
+.editor {
+	margin-left : auto;
+	margin-right: auto;
+	width : 800px;
+	border : 2px solid black;
+  height : 400px;
+	border-radius: 5px solid black;
+}
+.editor .CodeMirror {
+	height: 100%;
+	min-height: 400px !important;
+}
+.cm-s-slugbay {
+	font-family: 'Menlo', 'Consolas', "Vera Mono", monospace;
+  	font-size: 16px;
+}
+.cm-s-slugbay .CodeMirror-gutters {
+	border: 0px;
+}
+
+.cm-s-slugbay .CodeMirror-linenumber {
+	color: #3A3B3A;
+}
+
+.cm-s-slugbay .CodeMirror-activeline-background {
+	background: white;
+}
+.cm-s-slugbay .CodeMirror-matchingbracket {
+	color: white !important;
+}
+.cm-s-slugbay .CodeMirror-cursor {
+	border-left: 1px solid black;
+}
+.cm-s-slugbay .CodeMirror-selected {
+	background: #373B41;
+}
+.cm-s-slugbay .CodeMirror-foldmarker {
+  color: blue;
+  text-shadow: #b9f 1px 1px 2px, #b9f -1px -1px 2px, #b9f 1px -1px 2px, #b9f -1px 1px 2px;
+  font-family: arial;
+  line-height: .3;
+  cursor: pointer;
+}
+.cm-s-slugbay .CodeMirror-foldgutter {
+  width: .7em;
+}
+.cm-s-slugbay .CodeMirror-foldgutter-open,
+.cm-s-slugbay .CodeMirror-foldgutter-folded {
+  cursor: pointer;
+}
+.cm-s-slugbay .CodeMirror-foldgutter-open:after {
+  content: "\25BE";
+}
+.cm-s-slugbay .CodeMirror-foldgutter-folded:after {
+  content: "\25B8";
+}
+
+.cm-s-slugbay span.cm-comment { color: hsl(120,0%,59%); }
+.cm-s-slugbay span.cm-atom { color: #845dc4; }
+.cm-s-slugbay span.cm-number, .cm-s-slugbay span.cm-attribute { color: hsl(24,65%,62%); }
+.cm-s-slugbay span.cm-keyword { color: hsl(286,22%,65%); }
+.cm-s-slugbay span.cm-string { color: hsl(65,39%,57%); }
+.cm-s-slugbay span.cm-meta { color: hsl(171,28%,64%); }
+.cm-s-slugbay span.cm-variable-2, .cm-s-slugbay span.cm-tag { color: hsl(39,80%,69%); }
+.cm-s-slugbay span.cm-variable-3, .cm-s-slugbay span.cm-def { color: hsl(39,80%,69%); }
+.cm-s-slugbay span.cm-error { color: hsl(0,50%,60%); }
+.cm-s-slugbay span.cm-bracket { color: hsl(0, 0%, 50%); }
+.cm-s-slugbay span.cm-builtin, .cm-s-slugbay span.cm-special { color:hsl(207,31%,62%); }
+.cm-s-slugbay span.cm-link { color: hsl(207,31%,62%); }
+.cm-s-slugbay span.cm-operator { color: rgb(124, 124, 124); }

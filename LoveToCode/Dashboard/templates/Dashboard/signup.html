@@ -1,0 +1,62 @@
+<!DOCTYPE HTML> {% load static %}
+<html>
+
+<head>
+    <link rel="stylesheet" href="{% static 'ProjectDashboard/signup.css' %}">
+    <link rel="stylesheet" href="{% static 'ProjectDashboard/css/boilerform.min.css' %}">
+</head>
+
+<body>
+    <script>
+        var check = function () {
+            if (document.getElementById('password').value ==
+                document.getElementById('confirm_password').value) {
+                document.getElementById('message').style.color = 'green';
+                document.getElementById('message').innerHTML = "";
+                document.getElementById('sign_up').disabled = false;
+            } else {
+                document.getElementById('message').style.color = 'red';
+                document.getElementById('message').innerHTML = 'PASSWORDS DONOT MATCH';
+                document.getElementById('sign_up').disabled = true;
+            }
+        }
+    </script>
+    <form class="boilerform" method="post"> {% csrf_token %}
+        <h1 class="o-heading">Signup</h1>
+        <div class="c-signup">
+            <div class="c-signup__field c-signup__field--fill">
+                <label for="first_name" class="c-label">Full name</label>
+                <input type="text" name="user_name" id="first_name" class="c-input-field" required/>
+            </div>
+            <!-- <div class="c-signup__field">
+                <label for="last_name" class="c-label">Last name</label>
+                <input type="text" name="last_name" id="last_name" class="c-input-field" />
+            </div> -->
+            <div class="c-signup__field c-signup__field--fill">
+                <label for="email" class="c-label">Email address</label>
+                <input type="email" name="email" id="email" class="c-input-field" required/>
+            </div>
+            <div class="c-signup__field c-signup__field--fill">
+                <label for="mobile" class="c-label">Mobile Number</label>
+                <input type="text" name="phone_number" id="email" class="c-input-field" required/>
+            </div>
+            <div class="c-signup__field c-signup__field--fill">
+                <label for="password" class="c-label">Password</label>
+                <input type="password" name="password" id="password" onkeyup='check();' class="c-input-field" required/>
+            </div>
+            <div class="c-signup__field c-signup__field--fill">
+                <label for="Confirm password" class="c-label">Confirm Password</label>
+                <input type="password" name="repeat_password" id="confirm_password" onkeyup='check();' class="c-input-field" required/>
+            </div>
+            <span id="message" style="position:absolute; left:940px;top:495px"></span>
+            <div class="c-signup__button">
+                <p style="float:left ">Already have an account??
+                    <a href={% url 'Dashboard:login' %} style="cursor:pointer;color:red;text-decoration:none">Login</a>
+                </p>
+                <button class="c-button" type="submit" id="sign_up" disabled="true">Signup</button>
+            </div>
+        </div>
+    </form>
+</body>
+
+</html>

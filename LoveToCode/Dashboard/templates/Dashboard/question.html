@@ -1,0 +1,156 @@
+<!DOCTYPE html> {% load static %}
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Question</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/css/font-awesome.min.css' %}" />
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/question_header.css' %}" />
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/question.css' %}" />
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/editor.css' %}" />
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/codemirror/lib/codemirror.css' %}"
+    />
+    <style>
+        .success-msg,
+        .error-msg {
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 3px 3px 3px 3px;
+        }
+
+        .success-msg {
+            color: #270;
+            background-color: #DFF2BF;
+        }
+
+        .error-msg {
+            color: #D8000C;
+            background-color: #FFBABA;
+        }
+
+        #errorbody {
+            width: 840px;
+        }
+    </style>
+</head>
+
+<body>
+    {% include "Dashboard/question_header.html" %}
+    <div class="container">
+        <div class="mag"></div>
+        <div class="header">
+            <center>{{name}}</center>
+        </div>
+        <h1>Task</h1>
+        <br />
+        <div class="text">
+            <p>{{ task|safe }}</p>
+        </div>
+        <br/>
+        <div class="text">
+            <h2>Input Format.</h2>
+            <br />
+            <p>{{ input_format|safe }}.</p>
+        </div>
+        <br/>
+        <div class="text">
+            <h2>Output Format.</h2>
+            <br/>
+            <p>{{ output_format|safe }}.</p>
+        </div>
+        <br />
+        <div class="text">
+            <h2>Sample Input.</h2>
+            <br/>
+            <p>
+                <pre><code>{{ sample_input|safe }}.</code></pre>
+            </p>
+        </div>
+        <br />
+        <div class="text">
+            <h2>Sample Output.</h2>
+            <br/>
+            <p>
+                <code>{{ sample_output|safe }}</code>
+            </p>
+        </div>
+        <br />
+        <h1>
+            <i>Write your solution below...!</i>
+        </h1>
+        <br />
+        <form method="POST" id="myform">{% csrf_token %}
+            <select name="language" id="language" style="float: right;">
+                <option value="0">Select Your Laguage</option>
+                <option value="C">C</option>
+                <option value="C++">C++</option>
+                <option value="Java">Java</option>
+                <option value="Python2.7">Python 2.7</option>
+                <option value="Python3.6">Python 3.6</option>
+                <option value="Ruby">Ruby</option>
+            </select>
+            <!-- This is for displaying the editor -->
+    </div>
+    <center>
+        <textarea style="font-family: cursive" name="program" class="editor" id="program" required></textarea>
+    </center>
+    <div id="buttons" style="position:absolute;left:68%">
+        <input type="submit" class="btn green" value="Submit Code">
+    </div>
+    </form>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <center>
+        <div id="errorbody">
+            <div class="success-msg" style="visibility: hidden">
+            </div>
+            <div class="error-msg" style="visibility:hidden ">
+            </div>
+        </div>
+    <center>
+            <script src="{% static 'ProjectDashboard/jquery/aui-min.js' %}"></script>
+            <script src="{% static 'ProjectDashboard/codemirror/lib/codemirror.js' %}"></script>
+            <script src="{% static 'ProjectDashboard/codemirror/mode/python/python.js' %}"></script>
+            <script src="{% static 'ProjectDashboard/jquery/jquery-3.3.1.min.js' %}"></script>
+            <script src="{% static 'ProjectDashboard/question.js' %}"></script>
+            <script src="{% static 'ProjectDashboard/jquery/codemirror.js' %}"></script>
+            <script src="{% static 'ProjectDashboard/jquery/javascript.js' %}"></script>
+            <script src="{% static 'ProjectDashboard/jquery/closedbrackets.js' %}"></script>
+            <script src="{% static 'ProjectDashboard/jquery/foldcode.js' %}"></script>
+            <script src="{% static 'ProjectDashboard/jquery/foldgutter.js' %}"></script>
+            <script src="{% static 'ProjectDashboard/jquery/activeline.js' %}"></script>
+            <script src="{% static 'ProjectDashboard/jquery/bracefold.js' %}"></script>
+            <script>
+                $(document).on('submit', '#myform', function (e) {
+                    e.preventDefault();
+                    $.ajax(
+                        {
+                            type: "POST",
+                            url: "http://127.0.0.1:8000/index/dashboard/error_or_out",
+                            data: {
+                                language: $('#language').val(),
+                                program: $('#program').val(),
+                                csrfmiddlewaretoken: $('input[name=csrfmiddlewaretoken]').val()
+                            },
+                            success: function (data) {
+                                $("div.error-msg").css("visibility","hidden")
+                                $("div.success-msg").css("visibility","visible")
+                                $('div.success-msg').text(data);
+                            },
+                            error: function (data) {
+                                $("div.success-msg").css("visibility","hidden")
+                                $("div.error-msg").css("visibility","visible")
+                                $('div.error-msg').html(data.responseText);
+                            }
+                        }
+                    )
+                });
+            </script>
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+    <style>
+        .success-msg,
+        .error-msg {
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 3px 3px 3px 3px;
+        }
+        .success-msg {
+            color: #270;
+            background-color: #DFF2BF;
+        }
+        .error-msg {
+            color: #D8000C;
+            background-color: #FFBABA;
+        }
+
+        #errorbody {
+            width: 840px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- This is the code which runs after submitting the program -->
+    <center>
+        <div id="errorbody">
+            {% if success %}
+            <div class="success-msg">
+                This is a success message.
+            </div>
+            {% endif %} {% if error %}
+            <div class="error-msg">
+                This is a error message.
+            </div>
+            {% endif %}
+        </div>
+        <center>
+</body>
+
+</html>

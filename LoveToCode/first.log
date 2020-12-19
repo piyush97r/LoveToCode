@@ -1,0 +1,2521 @@
+ 2018-05-26 04:57:21,502 -DEBUG- ['Mohammed Numan', 'numan123', 'mohammednuman.amc@gmail.com', '9663015381', '1\n']
+ 2018-05-26 04:57:21,502 -DEBUG- Checking 1 and 1
+
+ 2018-05-26 04:57:21,502 -DEBUG- ['Mohammed Furqan', 'furqan123', 'furqan.alameen@gmail.com', '7760841680', '2\n']
+ 2018-05-26 04:57:21,502 -DEBUG- Checking 2 and 1
+
+ 2018-05-26 04:57:21,503 -DEBUG- ['Mukesh', '12', 'after@gmail.com', '12345', '3\n']
+ 2018-05-26 04:57:21,503 -DEBUG- Checking 3 and 1
+
+ 2018-05-26 04:57:21,503 -DEBUG- ['Kevin Raymond', '12345', 'kevin@gmail.com', '1234567890', '4\n']
+ 2018-05-26 04:57:21,503 -DEBUG- Checking 4 and 1
+
+ 2018-05-26 04:57:21,503 -DEBUG- ['Piyush', '12345', 'done@gmil.com', '9663015381', '5\n']
+ 2018-05-26 04:57:21,503 -DEBUG- Checking 5 and 1
+
+ 2018-05-26 04:57:21,503 -DEBUG- ['Hello', '123', 'Hello@gmail.comm', '1234567890', '6\n']
+ 2018-05-26 04:57:21,503 -DEBUG- Checking 6 and 1
+
+ 2018-05-26 04:57:21,503 -DEBUG- ['Hmm', '1', 'hmm@gmail.com', '1234567890', '7\n']
+ 2018-05-26 04:57:21,504 -DEBUG- Checking 7 and 1
+
+ 2018-05-26 04:57:21,504 -DEBUG- ['k', '1', 'k@gmail.com', '12345678', '8\n']
+ 2018-05-26 04:57:21,504 -DEBUG- Checking 8 and 1
+
+ 2018-05-26 04:57:21,504 -DEBUG- ['Brother', '12', 'brother@gmail.com', '96', '9\n']
+ 2018-05-26 04:57:21,504 -DEBUG- Checking 9 and 1
+
+ 2018-05-26 04:58:13,999 -DEBUG- ['Mohammed Numan', 'numan123', 'mohammednuman.amc@gmail.com', '9663015381', '1\n']
+ 2018-05-26 04:58:13,999 -DEBUG- Checking 1 and 1
+
+ 2018-05-26 04:58:13,999 -DEBUG- ['Mohammed Furqan', 'furqan123', 'furqan.alameen@gmail.com', '7760841680', '2\n']
+ 2018-05-26 04:58:13,999 -DEBUG- Checking 2 and 1
+
+ 2018-05-26 04:58:13,999 -DEBUG- ['Mukesh', '12', 'after@gmail.com', '12345', '3\n']
+ 2018-05-26 04:58:13,999 -DEBUG- Checking 3 and 1
+
+ 2018-05-26 04:58:14,000 -DEBUG- ['Kevin Raymond', '12345', 'kevin@gmail.com', '1234567890', '4\n']
+ 2018-05-26 04:58:14,000 -DEBUG- Checking 4 and 1
+
+ 2018-05-26 04:58:14,000 -DEBUG- ['Piyush', '12345', 'done@gmil.com', '9663015381', '5\n']
+ 2018-05-26 04:58:14,000 -DEBUG- Checking 5 and 1
+
+ 2018-05-26 04:58:14,000 -DEBUG- ['Hello', '123', 'Hello@gmail.comm', '1234567890', '6\n']
+ 2018-05-26 04:58:14,000 -DEBUG- Checking 6 and 1
+
+ 2018-05-26 04:58:14,000 -DEBUG- ['Hmm', '1', 'hmm@gmail.com', '1234567890', '7\n']
+ 2018-05-26 04:58:14,000 -DEBUG- Checking 7 and 1
+
+ 2018-05-26 04:58:14,000 -DEBUG- ['k', '1', 'k@gmail.com', '12345678', '8\n']
+ 2018-05-26 04:58:14,000 -DEBUG- Checking 8 and 1
+
+ 2018-05-26 04:58:14,000 -DEBUG- ['Brother', '12', 'brother@gmail.com', '96', '9\n']
+ 2018-05-26 04:58:14,000 -DEBUG- Checking 9 and 1
+
+ 2018-05-26 04:59:47,476 -DEBUG- ['Mohammed Numan', 'numan123', 'mohammednuman.amc@gmail.com', '9663015381', '1\n']
+ 2018-05-26 04:59:47,476 -DEBUG- Checking 1 and 1
+
+ 2018-05-26 04:59:47,476 -DEBUG- Inside if......!
+ 2018-05-26 04:59:47,476 -DEBUG- ['Hello World', 'numan123', 'mohammednuman.amc@gmail.com', '9663015381', '1\n']
+ 2018-05-26 04:59:47,476 -DEBUG- ['Mohammed Furqan', 'furqan123', 'furqan.alameen@gmail.com', '7760841680', '2\n']
+ 2018-05-26 04:59:47,476 -DEBUG- Checking 2 and 1
+
+ 2018-05-26 04:59:47,476 -DEBUG- ['Mukesh', '12', 'after@gmail.com', '12345', '3\n']
+ 2018-05-26 04:59:47,476 -DEBUG- Checking 3 and 1
+
+ 2018-05-26 04:59:47,476 -DEBUG- ['Kevin Raymond', '12345', 'kevin@gmail.com', '1234567890', '4\n']
+ 2018-05-26 04:59:47,476 -DEBUG- Checking 4 and 1
+
+ 2018-05-26 04:59:47,476 -DEBUG- ['Piyush', '12345', 'done@gmil.com', '9663015381', '5\n']
+ 2018-05-26 04:59:47,476 -DEBUG- Checking 5 and 1
+
+ 2018-05-26 04:59:47,476 -DEBUG- ['Hello', '123', 'Hello@gmail.comm', '1234567890', '6\n']
+ 2018-05-26 04:59:47,476 -DEBUG- Checking 6 and 1
+
+ 2018-05-26 04:59:47,476 -DEBUG- ['Hmm', '1', 'hmm@gmail.com', '1234567890', '7\n']
+ 2018-05-26 04:59:47,477 -DEBUG- Checking 7 and 1
+
+ 2018-05-26 04:59:47,477 -DEBUG- ['k', '1', 'k@gmail.com', '12345678', '8\n']
+ 2018-05-26 04:59:47,477 -DEBUG- Checking 8 and 1
+
+ 2018-05-26 04:59:47,477 -DEBUG- ['Brother', '12', 'brother@gmail.com', '96', '9\n']
+ 2018-05-26 04:59:47,477 -DEBUG- Checking 9 and 1
+
+ 2018-05-26 05:00:28,136 -DEBUG- ['Mohammed Numan', 'numan123', 'mohammednuman.amc@gmail.com', '9663015381', '1\n']
+ 2018-05-26 05:00:28,136 -DEBUG- Checking 1 and 1
+
+ 2018-05-26 05:00:28,136 -DEBUG- Inside if......!
+ 2018-05-26 05:00:28,136 -DEBUG- ['Hmm', 'numan123', 'mohammednuman.amc@gmail.com', '9663015381', '1\n']
+ 2018-05-26 05:00:28,136 -DEBUG- ['Mohammed Furqan', 'furqan123', 'furqan.alameen@gmail.com', '7760841680', '2\n']
+ 2018-05-26 05:00:28,136 -DEBUG- Checking 2 and 1
+
+ 2018-05-26 05:00:28,136 -DEBUG- ['Mukesh', '12', 'after@gmail.com', '12345', '3\n']
+ 2018-05-26 05:00:28,136 -DEBUG- Checking 3 and 1
+
+ 2018-05-26 05:00:28,136 -DEBUG- ['Kevin Raymond', '12345', 'kevin@gmail.com', '1234567890', '4\n']
+ 2018-05-26 05:00:28,136 -DEBUG- Checking 4 and 1
+
+ 2018-05-26 05:00:28,136 -DEBUG- ['Piyush', '12345', 'done@gmil.com', '9663015381', '5\n']
+ 2018-05-26 05:00:28,136 -DEBUG- Checking 5 and 1
+
+ 2018-05-26 05:00:28,136 -DEBUG- ['Hello', '123', 'Hello@gmail.comm', '1234567890', '6\n']
+ 2018-05-26 05:00:28,136 -DEBUG- Checking 6 and 1
+
+ 2018-05-26 05:00:28,137 -DEBUG- ['Hmm', '1', 'hmm@gmail.com', '1234567890', '7\n']
+ 2018-05-26 05:00:28,137 -DEBUG- Checking 7 and 1
+
+ 2018-05-26 05:00:28,137 -DEBUG- ['k', '1', 'k@gmail.com', '12345678', '8\n']
+ 2018-05-26 05:00:28,137 -DEBUG- Checking 8 and 1
+
+ 2018-05-26 05:00:28,137 -DEBUG- ['Brother', '12', 'brother@gmail.com', '96', '9\n']
+ 2018-05-26 05:00:28,137 -DEBUG- Checking 9 and 1
+
+ 2018-05-26 05:02:43,652 -DEBUG- Inside if......!
+ 2018-05-26 05:02:43,652 -DEBUG- ['College', 'numan123', 'mohammednuman.amc@gmail.com', '9663015381', '1\n']
+ 2018-05-26 05:04:34,025 -DEBUG- Inside if......!
+ 2018-05-26 05:04:34,025 -DEBUG- ['College', 'numan123', 'mohammednuman.amc@gmail.com', '9663015381', '1\n']
+ 2018-05-26 05:04:40,798 -DEBUG- Inside if......!
+ 2018-05-26 05:04:40,799 -DEBUG- ['Hello World', 'numan123', 'mohammednuman.amc@gmail.com', '9663015381', '1\n']
+ 2018-05-26 05:05:07,985 -DEBUG- Inside if......!
+ 2018-05-26 05:05:07,986 -DEBUG- ['Hello World', 'numan456', 'mohammednuman.amc@gmail.com', '9663015381', '1\n']
+ 2018-05-26 05:05:59,804 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n']
+ 2018-05-26 05:05:59,804 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-05-26 05:05:59,804 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-05-26 05:05:59,805 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-05-26 05:05:59,805 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-05-26 05:05:59,805 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-05-26 05:05:59,805 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-05-26 05:05:59,805 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-05-26 05:05:59,806 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-05-26 05:05:59,806 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-05-26 05:05:59,806 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother']]
+ 2018-05-26 05:05:59,807 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['5', 'Mukesh']), (5, ['5', 'Kevin Raymond']), (6, ['5', 'Hello']), (7, ['5', 'Hmm']), (8, ['5', 'Kevin'])]
+ 2018-05-26 05:05:59,807 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['5', 'Mukesh']), (5, ['5', 'Kevin Raymond']), (6, ['5', 'Hello']), (7, ['5', 'Hmm']), (8, ['5', 'Kevin'])]
+ 2018-05-26 05:06:05,034 -DEBUG- <map object at 0x7f9fe2e61160>
+ 2018-05-26 05:08:34,822 -DEBUG- ('Final Check', '123', 'final@gmail.com', '9663015381')
+ 2018-05-26 05:09:00,871 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1\n0\nFinal Check\n']
+ 2018-05-26 05:09:00,871 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-05-26 05:09:00,871 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-05-26 05:09:00,871 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-05-26 05:09:00,871 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-05-26 05:09:00,871 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-05-26 05:09:00,871 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-05-26 05:09:00,871 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-05-26 05:09:00,871 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-05-26 05:09:00,872 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-05-26 05:09:00,872 -DEBUG- The user is 10
+-1
+0
+Final Check
+
+ 2018-05-26 05:09:00,872 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['0', 'Final Check']]
+ 2018-05-26 05:09:00,872 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['5', 'Mukesh']), (5, ['5', 'Kevin Raymond']), (6, ['5', 'Hello']), (7, ['5', 'Hmm']), (8, ['5', 'Kevin']), (9, ['0', 'Final Check'])]
+ 2018-05-26 05:09:00,872 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['5', 'Mukesh']), (5, ['5', 'Kevin Raymond']), (6, ['5', 'Hello']), (7, ['5', 'Hmm']), (8, ['5', 'Kevin']), (9, ['0', 'Final Check'])]
+ 2018-05-26 05:09:10,046 -DEBUG- <map object at 0x7f9fe2627208>
+ 2018-05-26 05:09:12,047 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-05-26 05:09:22,802 -DEBUG- Question Number is 0The test case is 
+ 2018-05-26 05:09:50,842 -DEBUG- Question Number is 0The test case is 
+ 2018-05-26 05:10:07,267 -DEBUG- Question Number is 0The test case is 
+ 2018-05-26 05:10:07,317 -DEBUG- The Excepted output is Hello World
+ Actual output is Hello World
+
+ 2018-05-26 05:10:11,784 -DEBUG- <map object at 0x7f9fe1dcdc88>
+ 2018-05-26 05:10:13,419 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0\n5\nFinal Check\n']
+ 2018-05-26 05:10:13,419 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-05-26 05:10:13,420 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-05-26 05:10:13,420 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-05-26 05:10:13,420 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-05-26 05:10:13,420 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-05-26 05:10:13,420 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-05-26 05:10:13,420 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-05-26 05:10:13,420 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-05-26 05:10:13,420 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-05-26 05:10:13,420 -DEBUG- The user is 10
+-1 0
+5
+Final Check
+
+ 2018-05-26 05:10:13,420 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['5', 'Final Check']]
+ 2018-05-26 05:10:13,420 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['5', 'Mukesh']), (5, ['5', 'Kevin Raymond']), (6, ['5', 'Hello']), (7, ['5', 'Hmm']), (8, ['5', 'Kevin']), (9, ['5', 'Final Check'])]
+ 2018-05-26 05:10:13,420 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['5', 'Mukesh']), (5, ['5', 'Kevin Raymond']), (6, ['5', 'Hello']), (7, ['5', 'Hmm']), (8, ['5', 'Kevin']), (9, ['5', 'Final Check'])]
+ 2018-05-26 05:10:20,453 -DEBUG- <map object at 0x7f9fe1db0080>
+ 2018-05-26 05:10:23,791 -DEBUG- $$1
+Given an array of integers, find the sum of its elements. #
+The first line contains an integer,n, denoting the size of the array.
+The second line contains space-separated integers representing the array's elements.#
+Print the sum of the array.#
+6
+1 2 3 4 10 11#
+31#
+#####
+ 2018-05-26 05:10:37,300 -DEBUG- Question Number is 1The test case is 5
+8 4 3 6 2
+
+ 2018-05-26 05:10:37,347 -DEBUG- The Excepted output is 23
+ Actual output is Hello
+
+ 2018-05-26 05:11:58,889 -DEBUG- Question Number is 1The test case is 5
+8 4 3 6 2
+
+ 2018-05-26 05:11:58,920 -DEBUG- The Excepted output is 23
+ Actual output is 23
+
+ 2018-05-26 05:12:03,985 -DEBUG- <map object at 0x7f9fe1daca20>
+ 2018-05-26 05:12:06,350 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1\n10\nFinal Check\n']
+ 2018-05-26 05:12:06,351 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-05-26 05:12:06,351 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-05-26 05:12:06,351 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-05-26 05:12:06,351 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-05-26 05:12:06,351 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-05-26 05:12:06,351 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-05-26 05:12:06,351 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-05-26 05:12:06,351 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-05-26 05:12:06,351 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-05-26 05:12:06,351 -DEBUG- The user is 10
+-1 0 1
+10
+Final Check
+
+ 2018-05-26 05:12:06,351 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check']]
+ 2018-05-26 05:12:06,351 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin'])]
+ 2018-05-26 05:12:06,352 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin'])]
+ 2018-05-26 05:12:14,329 -DEBUG- <map object at 0x7f9fe1dd3710>
+ 2018-05-26 05:12:15,720 -DEBUG- $$2
+Alice and Bob each created one problem for HackerRank. A reviewer rates the two challenges, awarding points on a scale from 1 to 100 for three categories: problem clarity, originality, and difficulty.<br/>
+We define the rating for Alice's challenge to be the triplet A = (a[0],a[1],a[2]), and the rating for Bob's challenge to be the triplet B = (b[0],b[1],b[2]).<br/><br/>
+Your task is to find their comparison points by comparing a[0] with b[0], b[1] with a[1], and a[2] with b[2].<br /><br/>
+
+    If a[i] > b[i], then Alice is awarded point.<br/>
+    If a[i] < b[i], then Bob is awarded point.<br/>
+    If a[i] = b[i], then neither person receives a point.<br/>
+<br/>
+Comparison points is the total points a person earned.<br/>
+
+Given and A,B can you compare the two challenges and print their respective comparison points?#
+The first line contains 3 space-separated integers describing the respective values in triplet A.<br/>
+The second line contains 3 space-separated integers describing the respective values in triplet B.#
+Print two space-separated integers denoting the respective comparison points earned by Alice and Bob.#
+5 6 7
+3 6 10#
+1 1#
+#####
+ 2018-05-26 05:12:20,173 -DEBUG- ['a = list(map(int, input().strip().split()))', 'b = list(map(int, input().strip().split()))', 'score_alice = 0', 'score_bob = 0', 'if a[0] > b[0]:', '    score_alice += 1', 'else:', '    score_bob += 1', 'if a[1] > b[1]:', '    score_alice += 1', 'else:', '    score_bob += 1', 'if a[2] > b[2]:', '    score_alice += 1', 'else:', '    score_bob  += 1']
+ 2018-05-26 05:12:20,180 -DEBUG- ['1', '0', '30', 'Mohammed Numan', '']
+ 2018-05-26 05:12:20,181 -DEBUG- 1 Id is 10
+ 2018-05-26 05:12:20,181 -DEBUG- ['2', '0 1 2', '10', 'Mohammed Furqan', '']
+ 2018-05-26 05:12:20,181 -DEBUG- 2 Id is 10
+ 2018-05-26 05:12:20,181 -DEBUG- ['3', '0', '5', 'Mukesh', '']
+ 2018-05-26 05:12:20,181 -DEBUG- 3 Id is 10
+ 2018-05-26 05:12:20,182 -DEBUG- ['4', '0', '5', 'Kevin Raymond', '']
+ 2018-05-26 05:12:20,182 -DEBUG- 4 Id is 10
+ 2018-05-26 05:12:20,182 -DEBUG- ['5', '0 1 2', '15', 'Piyush', '']
+ 2018-05-26 05:12:20,182 -DEBUG- 5 Id is 10
+ 2018-05-26 05:12:20,182 -DEBUG- ['6', '0', '5', 'Hello', '']
+ 2018-05-26 05:12:20,182 -DEBUG- 6 Id is 10
+ 2018-05-26 05:12:20,182 -DEBUG- ['7', '0', '5', 'Hmm', '']
+ 2018-05-26 05:12:20,182 -DEBUG- 7 Id is 10
+ 2018-05-26 05:12:20,183 -DEBUG- ['8', '0', '5', 'Kevin', '']
+ 2018-05-26 05:12:20,183 -DEBUG- 8 Id is 10
+ 2018-05-26 05:12:20,183 -DEBUG- ['9', '-1 0 1 2 4', '10', 'Brother', '']
+ 2018-05-26 05:12:20,183 -DEBUG- 9 Id is 10
+ 2018-05-26 05:12:20,183 -DEBUG- ['10', '-1 0 1', '10', 'Final Check', '']
+ 2018-05-26 05:12:20,183 -DEBUG- 10 Id is 10
+ 2018-05-26 05:12:20,183 -DEBUG- Into The iff....
+ 2018-05-26 05:12:20,183 -DEBUG- -1 0 1
+ 2018-05-26 05:12:27,576 -DEBUG- $$2
+Alice and Bob each created one problem for HackerRank. A reviewer rates the two challenges, awarding points on a scale from 1 to 100 for three categories: problem clarity, originality, and difficulty.<br/>
+We define the rating for Alice's challenge to be the triplet A = (a[0],a[1],a[2]), and the rating for Bob's challenge to be the triplet B = (b[0],b[1],b[2]).<br/><br/>
+Your task is to find their comparison points by comparing a[0] with b[0], b[1] with a[1], and a[2] with b[2].<br /><br/>
+
+    If a[i] > b[i], then Alice is awarded point.<br/>
+    If a[i] < b[i], then Bob is awarded point.<br/>
+    If a[i] = b[i], then neither person receives a point.<br/>
+<br/>
+Comparison points is the total points a person earned.<br/>
+
+Given and A,B can you compare the two challenges and print their respective comparison points?#
+The first line contains 3 space-separated integers describing the respective values in triplet A.<br/>
+The second line contains 3 space-separated integers describing the respective values in triplet B.#
+Print two space-separated integers denoting the respective comparison points earned by Alice and Bob.#
+5 6 7
+3 6 10#
+1 1#
+#####
+ 2018-05-26 05:13:05,223 -DEBUG- Question Number is 2The test case is 6 9 2
+3 7 2
+
+ 2018-05-26 05:13:05,255 -DEBUG- The Excepted output is 2 0
+ Actual output is 2 1
+
+ 2018-05-26 05:13:37,947 -DEBUG- Question Number is 2The test case is 6 9 2
+3 7 2
+
+ 2018-05-26 05:13:38,003 -DEBUG- The Excepted output is 2 0
+ Actual output is 2 1
+
+ 2018-05-26 05:14:00,034 -DEBUG- Question Number is 2The test case is 6 9 2
+3 7 2
+
+ 2018-05-26 05:14:13,176 -DEBUG- Question Number is 2The test case is 6 9 2
+3 7 2
+
+ 2018-05-26 05:14:13,208 -DEBUG- The Excepted output is 2 0
+ Actual output is 2 0
+
+ 2018-05-26 05:14:18,921 -DEBUG- <map object at 0x7f9fe1db4908>
+ 2018-05-26 05:14:20,738 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n']
+ 2018-05-26 05:14:20,739 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-05-26 05:14:20,739 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-05-26 05:14:20,739 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-05-26 05:14:20,739 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-05-26 05:14:20,739 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-05-26 05:14:20,739 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-05-26 05:14:20,739 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-05-26 05:14:20,739 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-05-26 05:14:20,739 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-05-26 05:14:20,739 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-05-26 05:14:20,739 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check']]
+ 2018-05-26 05:14:20,739 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin'])]
+ 2018-05-26 05:14:20,739 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin'])]
+ 2018-05-26 05:14:26,722 -DEBUG- <map object at 0x7f9fe1ddfa90>
+ 2018-05-26 05:14:30,379 -DEBUG- $$3
+Calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.#
+The first line of the input consists of an integer n.<br/>
+The next line contains n space-separated integers contained in the array.#
+Print the sum of the array elements.#
+5<br />
+1000000001 1000000002 1000000003 1000000004 1000000005#
+5000000015#
+#####
+ 2018-05-26 05:14:32,550 -DEBUG- [('No comments here\n', '\nMohammed Numan\n'), ('',)]
+ 2018-05-26 05:15:01,025 -DEBUG- The details are <p>Can anyone explain me the Problem....</p>
+ Final Check
+ 2018-05-26 05:15:01,025 -DEBUG- [['No comments here\n', '\nMohammed Numan\n'], ['<p>Can anyone explain me the Problem....</p>\n', 'Final Check\n'], ['\n']]
+ 2018-05-26 05:15:09,613 -DEBUG- <map object at 0x7f9fe1ddfd68>
+ 2018-05-26 05:15:23,037 -DEBUG- Inside if......!
+ 2018-05-26 05:15:23,037 -DEBUG- ['Final Check Done', '123', 'final@gmail.com', '9663015381', '10\n']
+ 2018-05-26 05:16:19,541 -DEBUG- Inside if......!
+ 2018-05-26 05:16:19,541 -DEBUG- ['Final Check Done', '12345', 'final@gmail.com', '9663015381', '10\n']
+ 2018-05-26 05:16:31,323 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n']
+ 2018-05-26 05:16:31,323 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-05-26 05:16:31,323 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-05-26 05:16:31,323 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-05-26 05:16:31,324 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-05-26 05:16:31,324 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-05-26 05:16:31,324 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-05-26 05:16:31,324 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-05-26 05:16:31,324 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-05-26 05:16:31,324 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-05-26 05:16:31,324 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-05-26 05:16:31,324 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check']]
+ 2018-05-26 05:16:31,324 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin'])]
+ 2018-05-26 05:16:31,324 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin'])]
+ 2018-11-03 03:34:18,344 -WARNING- Not Found: /
+ 2018-11-03 03:34:18,398 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:34:28,475 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:34:39,406 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:35:08,236 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:35:12,921 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:35:15,644 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:35:55,261 -ERROR- Internal Server Error: /index/login/
+Traceback (most recent call last):
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.5/dist-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.5/dist-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.5/dist-packages/MySQLdb/cursors.py", line 247, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.5/dist-packages/MySQLdb/cursors.py", line 412, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.5/dist-packages/MySQLdb/cursors.py", line 375, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.5/dist-packages/MySQLdb/connections.py", line 276, in query
+    _mysql.connection.query(self, query)
+_mysql_exceptions.ProgrammingError: (1146, "Table 'lovetocode.django_session' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/utils/deprecation.py", line 97, in __call__
+    response = self.process_response(request, response)
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/contrib/sessions/middleware.py", line 58, in process_response
+    request.session.save()
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/contrib/sessions/backends/db.py", line 79, in save
+    return self.create()
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/contrib/sessions/backends/db.py", line 49, in create
+    self._session_key = self._get_new_session_key()
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/contrib/sessions/backends/base.py", line 153, in _get_new_session_key
+    if not self.exists(session_key):
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/contrib/sessions/backends/db.py", line 45, in exists
+    return self.model.objects.filter(session_key=session_key).exists()
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/models/query.py", line 715, in exists
+    return self.query.has_results(using=self.db)
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/models/sql/query.py", line 509, in has_results
+    return compiler.has_results()
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/models/sql/compiler.py", line 1037, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/models/sql/compiler.py", line 1068, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/mohammed/.local/lib/python3.5/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.5/dist-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.5/dist-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.5/dist-packages/MySQLdb/cursors.py", line 247, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.5/dist-packages/MySQLdb/cursors.py", line 412, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.5/dist-packages/MySQLdb/cursors.py", line 375, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.5/dist-packages/MySQLdb/connections.py", line 276, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'lovetocode.django_session' doesn't exist")
+ 2018-11-03 03:35:55,644 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:36:00,958 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:39:37,782 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:39:44,024 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:03,132 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-11-03 03:40:03,598 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:06,927 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:10,716 -DEBUG- <map object at 0x7fec3d4a61d0>
+ 2018-11-03 03:40:10,860 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:12,555 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n']
+ 2018-11-03 03:40:12,556 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-11-03 03:40:12,557 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-11-03 03:40:12,557 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-11-03 03:40:12,557 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-11-03 03:40:12,557 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-11-03 03:40:12,558 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-11-03 03:40:12,558 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-11-03 03:40:12,558 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-11-03 03:40:12,558 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-11-03 03:40:12,558 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-11-03 03:40:12,558 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check']]
+ 2018-11-03 03:40:12,559 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin'])]
+ 2018-11-03 03:40:12,559 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin'])]
+ 2018-11-03 03:40:12,644 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:17,802 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:21,815 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:23,894 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:25,282 -DEBUG- <map object at 0x7fec3d4bad68>
+ 2018-11-03 03:40:25,389 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:27,782 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-11-03 03:40:28,001 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:30,183 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:31,877 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n']
+ 2018-11-03 03:40:31,878 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-11-03 03:40:31,878 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-11-03 03:40:31,879 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-11-03 03:40:31,879 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-11-03 03:40:31,879 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-11-03 03:40:31,880 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-11-03 03:40:31,880 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-11-03 03:40:31,880 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-11-03 03:40:31,881 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-11-03 03:40:31,881 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-11-03 03:40:31,882 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check']]
+ 2018-11-03 03:40:31,882 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin'])]
+ 2018-11-03 03:40:31,883 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin'])]
+ 2018-11-03 03:40:31,990 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:34,375 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:35,140 -DEBUG- <map object at 0x7fec3d4a6240>
+ 2018-11-03 03:40:35,204 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:36,844 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-11-03 03:40:37,189 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:40:52,302 -DEBUG- [('<p>Can i have comments on my code??</p>\n\n<pre>\n<code class="language-python">#! /usr/bin/python3.5\nimport sys\n\ndef tic():\n    theBoard = {\'1\': \' \', \'2\': \' \', \'3\': \' \',\n    \'4\': \' \', \'5\': \' \', \'6\': \' \',\n    \'7\': \' \', \'8\': \' \', \'9\': \' \'}\n    taketurn(theBoard)\n\n\ndef printboard(b):\n    print("*"*80)\n    print("{:^80s}".format(b[\'1\']+"|"+b[\'2\']+"|"+b[\'3\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'4\']+"|"+b[\'5\']+"|"+b[\'6\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'7\']+"|"+b[\'8\']+"|"+b[\'9\']))\n    print("*"*80)\n\ndef taketurn(b):\n    turn = \'X\'\n    for i in range(9):\n        printboard(b)\n        b[takemove(b,turn)] = turn\n        check(b,turn)\n        turn = \'X\' if turn==\'O\' else \'O\'\n    print("Its a TIE.....!")\n    printboard(b)\n\ndef check(b,p):\n    if b[\'1\']==b[\'2\']==b[\'3\']==p or b[\'4\']==b[\'5\']==b[\'6\']==p or b[\'7\']==b[\'8\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'4\']==b[\'7\']==p or b[\'2\']==b[\'5\']==b[\'8\']==p or b[\'3\']==b[\'6\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'5\']==b[\'9\']==p or b[\'3\']==b[\'5\']==b[\'7\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\ndef takemove(b,p):\n    print("Player "+p+".Move on which space?[1-9]")\n    while(True):\n        move = input()\n        if move in b and isempty(b,move):\n            return move\n        else:\n            print("Move should be between [1-9] and should be Valid")\n\ndef isempty(b,m):\n    return True if b[m]==" " else False\n\ndef main():\n    tic()\n\nmain()</code></pre>\n\n<p>This is the code for tic tack toe.....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Now it will work.</p>\n', '\nMohammed Numan\n'), ('\n<p>This is a comment....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Can someone explain me this problem</p>\n', 'Brother\n'), ('\n',)]
+ 2018-11-03 03:40:52,608 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:41:01,055 -DEBUG- ['print("Hello World")']
+ 2018-11-03 03:41:01,127 -DEBUG- ['1', '0', '30', 'Mohammed Numan', '']
+ 2018-11-03 03:41:01,128 -DEBUG- 1 Id is 3
+ 2018-11-03 03:41:01,128 -DEBUG- ['2', '0 1 2', '10', 'Mohammed Furqan', '']
+ 2018-11-03 03:41:01,128 -DEBUG- 2 Id is 3
+ 2018-11-03 03:41:01,129 -DEBUG- ['3', '0', '5', 'Mukesh', '']
+ 2018-11-03 03:41:01,129 -DEBUG- 3 Id is 3
+ 2018-11-03 03:41:01,129 -DEBUG- ['4', '0', '5', 'Kevin Raymond', '']
+ 2018-11-03 03:41:01,130 -DEBUG- 4 Id is 3
+ 2018-11-03 03:41:01,130 -DEBUG- ['5', '0 1 2', '15', 'Piyush', '']
+ 2018-11-03 03:41:01,130 -DEBUG- 5 Id is 3
+ 2018-11-03 03:41:01,131 -DEBUG- ['6', '0', '5', 'Hello', '']
+ 2018-11-03 03:41:01,131 -DEBUG- 6 Id is 3
+ 2018-11-03 03:41:01,131 -DEBUG- ['7', '0', '5', 'Hmm', '']
+ 2018-11-03 03:41:01,131 -DEBUG- 7 Id is 3
+ 2018-11-03 03:41:01,132 -DEBUG- ['8', '0', '5', 'Kevin', '']
+ 2018-11-03 03:41:01,132 -DEBUG- 8 Id is 3
+ 2018-11-03 03:41:01,132 -DEBUG- ['9', '-1 0 1 2 4', '10', 'Brother', '']
+ 2018-11-03 03:41:01,132 -DEBUG- 9 Id is 3
+ 2018-11-03 03:41:01,133 -DEBUG- ['10', '-1 0 1 2', '10', 'Final Check', '']
+ 2018-11-03 03:41:01,133 -DEBUG- 10 Id is 3
+ 2018-11-03 03:41:01,221 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:41:04,201 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-11-03 03:41:04,455 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:41:18,997 -DEBUG- Question Number is 0The test case is 
+ 2018-11-03 03:41:19,064 -DEBUG- The Excepted output is Hello World
+ Actual output is Hello World
+
+ 2018-11-03 03:41:26,595 -DEBUG- Question Number is 0The test case is 
+ 2018-11-03 03:41:38,114 -DEBUG- Question Number is 0The test case is 
+ 2018-11-03 03:41:38,173 -DEBUG- The Excepted output is Hello World
+ Actual output is Hello World
+
+ 2018-11-03 03:41:41,268 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-11-03 03:41:41,540 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:41:43,877 -DEBUG- <map object at 0x7fec3d4bba90>
+ 2018-11-03 03:41:43,941 -WARNING- Not Found: /favicon.ico
+ 2018-11-03 03:41:46,184 -WARNING- Not Found: /favicon.ico
+ 2018-11-05 05:45:56,365 -WARNING- Not Found: /
+ 2018-11-05 05:45:57,268 -WARNING- Not Found: /favicon.ico
+ 2018-11-05 05:47:29,769 -DEBUG- ('Piyush123', '12345', 'piyush@gmail.com', '1234567789')
+ 2018-11-05 05:47:49,146 -DEBUG- <map object at 0x7f19886e44e0>
+ 2018-11-05 05:47:51,436 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n', '11\n-1\n0\nPiyush123\n']
+ 2018-11-05 05:47:51,436 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-11-05 05:47:51,437 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-11-05 05:47:51,437 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-11-05 05:47:51,437 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-11-05 05:47:51,437 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-11-05 05:47:51,437 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-11-05 05:47:51,437 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-11-05 05:47:51,437 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-11-05 05:47:51,437 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-11-05 05:47:51,437 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-11-05 05:47:51,437 -DEBUG- The user is 11
+-1
+0
+Piyush123
+
+ 2018-11-05 05:47:51,437 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check'], ['0', 'Piyush123']]
+ 2018-11-05 05:47:51,437 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123'])]
+ 2018-11-05 05:47:51,437 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123'])]
+ 2018-11-05 05:47:54,583 -DEBUG- <map object at 0x7f19886bd710>
+ 2018-11-05 05:47:57,688 -DEBUG- $$1
+Given an array of integers, find the sum of its elements. #
+The first line contains an integer,n, denoting the size of the array.
+The second line contains space-separated integers representing the array's elements.#
+Print the sum of the array.#
+6
+1 2 3 4 10 11#
+31#
+#####
+ 2018-11-05 05:47:59,549 -DEBUG- [('No Comments here<p>Yes there are....!</p>\n', '\nMohammed Furqan\n'), ('\n<p>This should be a new one....</p>\n', '\nKevin Raymond\n'), ('\n<p>Understood....!</p>\n', '\nHello\n'), ('\n<p>Hello There,,,,,,!</p>\n', '\nMohammed Furqan\n'), ('\n<p>Hmm.....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Why is this happenning????</p>\n', '\nMohammed Furqan\n'), ('\n<p>There is one extra space.....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Ask your doubts here....!</p>\n', 'Mohammed Numan\n'), ('\n<p>Ask your doubts here....!</p>\n', 'Mohammed Numan\n'), ('\n<p>Is it working??</p>\n', 'Mohammed Furqan\n'), ('\n',)]
+ 2018-11-05 05:48:01,157 -DEBUG- ['n = int(input())', 'arr = list(map(int, input().strip().split()))', 'print(sum(arr))']
+ 2018-11-05 05:48:01,165 -DEBUG- ['1', '0', '30', 'Mohammed Numan', '']
+ 2018-11-05 05:48:01,166 -DEBUG- 1 Id is 11
+ 2018-11-05 05:48:01,166 -DEBUG- ['2', '0 1 2', '10', 'Mohammed Furqan', '']
+ 2018-11-05 05:48:01,167 -DEBUG- 2 Id is 11
+ 2018-11-05 05:48:01,167 -DEBUG- ['3', '0', '5', 'Mukesh', '']
+ 2018-11-05 05:48:01,167 -DEBUG- 3 Id is 11
+ 2018-11-05 05:48:01,168 -DEBUG- ['4', '0', '5', 'Kevin Raymond', '']
+ 2018-11-05 05:48:01,168 -DEBUG- 4 Id is 11
+ 2018-11-05 05:48:01,168 -DEBUG- ['5', '0 1 2', '15', 'Piyush', '']
+ 2018-11-05 05:48:01,168 -DEBUG- 5 Id is 11
+ 2018-11-05 05:48:01,168 -DEBUG- ['6', '0', '5', 'Hello', '']
+ 2018-11-05 05:48:01,169 -DEBUG- 6 Id is 11
+ 2018-11-05 05:48:01,169 -DEBUG- ['7', '0', '5', 'Hmm', '']
+ 2018-11-05 05:48:01,169 -DEBUG- 7 Id is 11
+ 2018-11-05 05:48:01,169 -DEBUG- ['8', '0', '5', 'Kevin', '']
+ 2018-11-05 05:48:01,169 -DEBUG- 8 Id is 11
+ 2018-11-05 05:48:01,170 -DEBUG- ['9', '-1 0 1 2 4', '10', 'Brother', '']
+ 2018-11-05 05:48:01,170 -DEBUG- 9 Id is 11
+ 2018-11-05 05:48:01,170 -DEBUG- ['10', '-1 0 1 2', '10', 'Final Check', '']
+ 2018-11-05 05:48:01,171 -DEBUG- 10 Id is 11
+ 2018-11-05 05:48:01,171 -DEBUG- ['11', '-1', '0', 'Piyush123', '']
+ 2018-11-05 05:48:01,171 -DEBUG- 11 Id is 11
+ 2018-11-05 05:48:01,171 -DEBUG- Into The iff....
+ 2018-11-05 05:48:01,172 -DEBUG- -1
+ 2018-11-05 05:48:02,487 -DEBUG- [('No Comments here<p>Yes there are....!</p>\n', '\nMohammed Furqan\n'), ('\n<p>This should be a new one....</p>\n', '\nKevin Raymond\n'), ('\n<p>Understood....!</p>\n', '\nHello\n'), ('\n<p>Hello There,,,,,,!</p>\n', '\nMohammed Furqan\n'), ('\n<p>Hmm.....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Why is this happenning????</p>\n', '\nMohammed Furqan\n'), ('\n<p>There is one extra space.....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Ask your doubts here....!</p>\n', 'Mohammed Numan\n'), ('\n<p>Ask your doubts here....!</p>\n', 'Mohammed Numan\n'), ('\n<p>Is it working??</p>\n', 'Mohammed Furqan\n'), ('\n',)]
+ 2018-11-05 05:48:03,391 -DEBUG- $$1
+Given an array of integers, find the sum of its elements. #
+The first line contains an integer,n, denoting the size of the array.
+The second line contains space-separated integers representing the array's elements.#
+Print the sum of the array.#
+6
+1 2 3 4 10 11#
+31#
+#####
+ 2018-11-05 05:48:04,923 -DEBUG- <map object at 0x7f19886ecf98>
+ 2018-11-05 05:48:09,983 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n', '11\n-1 1\n0\nPiyush123\n']
+ 2018-11-05 05:48:09,983 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-11-05 05:48:09,983 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-11-05 05:48:09,983 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-11-05 05:48:09,983 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-11-05 05:48:09,983 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-11-05 05:48:09,983 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-11-05 05:48:09,983 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-11-05 05:48:09,983 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-11-05 05:48:09,983 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-11-05 05:48:09,983 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-11-05 05:48:09,983 -DEBUG- The user is 11
+-1 1
+0
+Piyush123
+
+ 2018-11-05 05:48:09,983 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check'], ['0', 'Piyush123']]
+ 2018-11-05 05:48:09,984 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123'])]
+ 2018-11-05 05:48:09,984 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123'])]
+ 2018-11-05 05:48:14,360 -DEBUG- <map object at 0x7f19861bb898>
+ 2018-11-05 05:55:59,706 -DEBUG- ('Piyush Ranjan', 'PIYUSH@97', 'piyush97ranjan@gmail.com', '8792680464')
+ 2018-11-05 05:57:58,352 -DEBUG- <map object at 0x7f413d05b400>
+ 2018-11-05 05:58:01,752 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n', '11\n-1 1\n0\nPiyush123\n', '1\n-1\n0\nPiyush Ranjan\n']
+ 2018-11-05 05:58:01,753 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-11-05 05:58:01,753 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-11-05 05:58:01,753 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-11-05 05:58:01,754 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-11-05 05:58:01,754 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-11-05 05:58:01,754 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-11-05 05:58:01,755 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-11-05 05:58:01,755 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-11-05 05:58:01,755 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-11-05 05:58:01,756 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-11-05 05:58:01,756 -DEBUG- The user is 11
+-1 1
+0
+Piyush123
+
+ 2018-11-05 05:58:01,757 -DEBUG- The user is 1
+-1
+0
+Piyush Ranjan
+
+ 2018-11-05 05:58:01,757 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check'], ['0', 'Piyush123'], ['0', 'Piyush Ranjan']]
+ 2018-11-05 05:58:01,757 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan'])]
+ 2018-11-05 05:58:01,759 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan'])]
+ 2018-11-05 05:58:16,619 -DEBUG- Inside if......!
+ 2018-11-05 05:58:16,619 -DEBUG- ['piyush', 'PIYUSH@97', 'piyush97ranjan@gmail.com', '8792680464', '1\n']
+ 2018-11-05 13:05:29,094 -WARNING- Not Found: /favicon.ico
+ 2018-11-05 13:05:29,101 -WARNING- Not Found: /favicon.ico
+ 2018-11-05 13:06:12,425 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-11-05 13:07:10,960 -DEBUG- Question Number is 0The test case is 
+ 2018-11-05 13:07:10,971 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-11-05 13:07:18,376 -DEBUG- Question Number is 0The test case is 
+ 2018-11-05 13:07:21,409 -DEBUG- Question Number is 0The test case is 
+ 2018-11-05 13:07:29,791 -DEBUG- Question Number is 0The test case is 
+ 2018-11-05 13:07:30,011 -DEBUG- Question Number is 0The test case is 
+ 2018-11-05 13:07:30,200 -DEBUG- Question Number is 0The test case is 
+ 2018-11-05 13:07:32,835 -DEBUG- ['print("Hello World")']
+ 2018-11-05 13:07:32,855 -DEBUG- ['1', '0', '30', 'Mohammed Numan', '']
+ 2018-11-05 13:07:32,856 -DEBUG- 1 Id is 1
+ 2018-11-05 13:07:32,857 -DEBUG- ['2', '0 1 2', '10', 'Mohammed Furqan', '']
+ 2018-11-05 13:07:32,857 -DEBUG- 2 Id is 1
+ 2018-11-05 13:07:32,858 -DEBUG- ['3', '0', '5', 'Mukesh', '']
+ 2018-11-05 13:07:32,858 -DEBUG- 3 Id is 1
+ 2018-11-05 13:07:32,859 -DEBUG- ['4', '0', '5', 'Kevin Raymond', '']
+ 2018-11-05 13:07:32,859 -DEBUG- 4 Id is 1
+ 2018-11-05 13:07:32,860 -DEBUG- ['5', '0 1 2', '15', 'Piyush', '']
+ 2018-11-05 13:07:32,860 -DEBUG- 5 Id is 1
+ 2018-11-05 13:07:32,861 -DEBUG- ['6', '0', '5', 'Hello', '']
+ 2018-11-05 13:07:32,861 -DEBUG- 6 Id is 1
+ 2018-11-05 13:07:32,862 -DEBUG- ['7', '0', '5', 'Hmm', '']
+ 2018-11-05 13:07:32,862 -DEBUG- 7 Id is 1
+ 2018-11-05 13:07:32,862 -DEBUG- ['8', '0', '5', 'Kevin', '']
+ 2018-11-05 13:07:32,862 -DEBUG- 8 Id is 1
+ 2018-11-05 13:07:32,863 -DEBUG- ['9', '-1 0 1 2 4', '10', 'Brother', '']
+ 2018-11-05 13:07:32,863 -DEBUG- 9 Id is 1
+ 2018-11-05 13:07:32,863 -DEBUG- ['10', '-1 0 1 2', '10', 'Final Check', '']
+ 2018-11-05 13:07:32,864 -DEBUG- 10 Id is 1
+ 2018-11-05 13:07:32,864 -DEBUG- ['11', '-1 1', '0', 'Piyush123', '']
+ 2018-11-05 13:07:32,864 -DEBUG- 11 Id is 1
+ 2018-11-05 13:07:32,865 -DEBUG- ['1', '-1', '0', 'Piyush Ranjan', '']
+ 2018-11-05 13:07:32,865 -DEBUG- 1 Id is 1
+ 2018-11-05 13:07:32,865 -DEBUG- Into The iff....
+ 2018-11-05 13:07:32,865 -DEBUG- -1
+ 2018-11-05 13:07:39,112 -DEBUG- [('<p>Can i have comments on my code??</p>\n\n<pre>\n<code class="language-python">#! /usr/bin/python3.5\nimport sys\n\ndef tic():\n    theBoard = {\'1\': \' \', \'2\': \' \', \'3\': \' \',\n    \'4\': \' \', \'5\': \' \', \'6\': \' \',\n    \'7\': \' \', \'8\': \' \', \'9\': \' \'}\n    taketurn(theBoard)\n\n\ndef printboard(b):\n    print("*"*80)\n    print("{:^80s}".format(b[\'1\']+"|"+b[\'2\']+"|"+b[\'3\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'4\']+"|"+b[\'5\']+"|"+b[\'6\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'7\']+"|"+b[\'8\']+"|"+b[\'9\']))\n    print("*"*80)\n\ndef taketurn(b):\n    turn = \'X\'\n    for i in range(9):\n        printboard(b)\n        b[takemove(b,turn)] = turn\n        check(b,turn)\n        turn = \'X\' if turn==\'O\' else \'O\'\n    print("Its a TIE.....!")\n    printboard(b)\n\ndef check(b,p):\n    if b[\'1\']==b[\'2\']==b[\'3\']==p or b[\'4\']==b[\'5\']==b[\'6\']==p or b[\'7\']==b[\'8\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'4\']==b[\'7\']==p or b[\'2\']==b[\'5\']==b[\'8\']==p or b[\'3\']==b[\'6\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'5\']==b[\'9\']==p or b[\'3\']==b[\'5\']==b[\'7\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\ndef takemove(b,p):\n    print("Player "+p+".Move on which space?[1-9]")\n    while(True):\n        move = input()\n        if move in b and isempty(b,move):\n            return move\n        else:\n            print("Move should be between [1-9] and should be Valid")\n\ndef isempty(b,m):\n    return True if b[m]==" " else False\n\ndef main():\n    tic()\n\nmain()</code></pre>\n\n<p>This is the code for tic tack toe.....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Now it will work.</p>\n', '\nMohammed Numan\n'), ('\n<p>This is a comment....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Can someone explain me this problem</p>\n', 'Brother\n'), ('\n',)]
+ 2018-11-05 13:08:43,844 -DEBUG- <map object at 0x7f9bcdccee10>
+ 2018-11-05 13:08:45,372 -DEBUG- $$2
+Alice and Bob each created one problem for HackerRank. A reviewer rates the two challenges, awarding points on a scale from 1 to 100 for three categories: problem clarity, originality, and difficulty.<br/>
+We define the rating for Alice's challenge to be the triplet A = (a[0],a[1],a[2]), and the rating for Bob's challenge to be the triplet B = (b[0],b[1],b[2]).<br/><br/>
+Your task is to find their comparison points by comparing a[0] with b[0], b[1] with a[1], and a[2] with b[2].<br /><br/>
+
+    If a[i] > b[i], then Alice is awarded point.<br/>
+    If a[i] < b[i], then Bob is awarded point.<br/>
+    If a[i] = b[i], then neither person receives a point.<br/>
+<br/>
+Comparison points is the total points a person earned.<br/>
+
+Given and A,B can you compare the two challenges and print their respective comparison points?#
+The first line contains 3 space-separated integers describing the respective values in triplet A.<br/>
+The second line contains 3 space-separated integers describing the respective values in triplet B.#
+Print two space-separated integers denoting the respective comparison points earned by Alice and Bob.#
+5 6 7
+3 6 10#
+1 1#
+#####
+ 2018-11-05 13:08:54,749 -DEBUG- Question Number is 2The test case is 6 9 2
+3 7 2
+
+ 2018-11-05 13:08:55,328 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-11-05 13:09:00,438 -DEBUG- $$2
+Alice and Bob each created one problem for HackerRank. A reviewer rates the two challenges, awarding points on a scale from 1 to 100 for three categories: problem clarity, originality, and difficulty.<br/>
+We define the rating for Alice's challenge to be the triplet A = (a[0],a[1],a[2]), and the rating for Bob's challenge to be the triplet B = (b[0],b[1],b[2]).<br/><br/>
+Your task is to find their comparison points by comparing a[0] with b[0], b[1] with a[1], and a[2] with b[2].<br /><br/>
+
+    If a[i] > b[i], then Alice is awarded point.<br/>
+    If a[i] < b[i], then Bob is awarded point.<br/>
+    If a[i] = b[i], then neither person receives a point.<br/>
+<br/>
+Comparison points is the total points a person earned.<br/>
+
+Given and A,B can you compare the two challenges and print their respective comparison points?#
+The first line contains 3 space-separated integers describing the respective values in triplet A.<br/>
+The second line contains 3 space-separated integers describing the respective values in triplet B.#
+Print two space-separated integers denoting the respective comparison points earned by Alice and Bob.#
+5 6 7
+3 6 10#
+1 1#
+#####
+ 2018-11-07 07:27:26,717 -WARNING- Not Found: /favicon.ico
+ 2018-11-09 05:14:28,734 -WARNING- Not Found: /favicon.ico
+ 2018-11-09 05:15:28,183 -DEBUG- ('pr', '12121234', 'piyushpiyush@gmail.com', '7019547157')
+ 2018-11-09 05:15:39,859 -DEBUG- <map object at 0x7f062d22c860>
+ 2018-11-09 05:15:43,543 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-11-09 07:38:46,211 -WARNING- Not Found: /favicon.ico
+ 2018-11-09 07:39:46,929 -DEBUG- ('parvathy', '123456', 'parvathy@gmail.com', '1234567890')
+ 2018-11-09 07:40:10,721 -DEBUG- <map object at 0x7f68700d2780>
+ 2018-11-09 07:40:13,324 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-11-23 11:20:53,504 -WARNING- Not Found: /
+ 2018-11-23 11:20:54,921 -WARNING- Not Found: /favicon.ico
+ 2018-11-25 09:08:20,358 -WARNING- Not Found: /
+ 2018-11-25 09:08:20,427 -WARNING- Not Found: /favicon.ico
+ 2018-11-25 09:08:47,531 -WARNING- Not Found: /
+ 2018-11-30 05:15:19,270 -WARNING- Not Found: /
+ 2018-11-30 05:15:21,132 -WARNING- Not Found: /favicon.ico
+ 2018-11-30 05:27:06,116 -DEBUG- <map object at 0x7f83d742f5c0>
+ 2018-11-30 05:27:19,080 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n', '11\n-1 1\n0\nPiyush123\n', '1\n-1 0\n0\nPiyush Ranjan\n', '2\n-1\n0\npr\n', '3\n-1\n0\nparvathy\n']
+ 2018-11-30 05:27:19,081 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-11-30 05:27:19,081 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-11-30 05:27:19,081 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-11-30 05:27:19,082 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-11-30 05:27:19,082 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-11-30 05:27:19,082 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-11-30 05:27:19,082 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-11-30 05:27:19,083 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-11-30 05:27:19,083 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-11-30 05:27:19,083 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-11-30 05:27:19,083 -DEBUG- The user is 11
+-1 1
+0
+Piyush123
+
+ 2018-11-30 05:27:19,083 -DEBUG- The user is 1
+-1 0
+0
+Piyush Ranjan
+
+ 2018-11-30 05:27:19,083 -DEBUG- The user is 2
+-1
+0
+pr
+
+ 2018-11-30 05:27:19,084 -DEBUG- The user is 3
+-1
+0
+parvathy
+
+ 2018-11-30 05:27:19,084 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check'], ['0', 'Piyush123'], ['0', 'Piyush Ranjan'], ['0', 'pr'], ['0', 'parvathy']]
+ 2018-11-30 05:27:19,084 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy'])]
+ 2018-11-30 05:27:19,084 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy'])]
+ 2018-12-07 19:55:27,957 -WARNING- Not Found: /favicon.ico
+ 2018-12-07 20:03:21,471 -WARNING- Not Found: /favicon.ico
+ 2018-12-10 19:13:28,010 -WARNING- Not Found: /favicon.ico
+ 2018-12-10 19:14:18,129 -DEBUG- ('imran', '123123', 'imran@gmail.com', '1234567891')
+ 2018-12-10 19:14:34,304 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-10 19:15:06,882 -DEBUG- Question Number is 0The test case is 
+ 2018-12-10 19:15:07,394 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-10 19:15:25,977 -DEBUG- Question Number is 0The test case is 
+ 2018-12-10 19:15:26,529 -DEBUG- The Excepted output is Hello World
+ Actual output is hello
+ 2018-12-10 19:15:26,530 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-10 19:15:35,787 -DEBUG- Question Number is 0The test case is 
+ 2018-12-10 19:15:35,864 -DEBUG- The Excepted output is Hello World
+ Actual output is hello World
+ 2018-12-10 19:15:35,864 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-10 19:15:52,641 -DEBUG- Question Number is 0The test case is 
+ 2018-12-10 19:15:52,727 -DEBUG- The Excepted output is Hello World
+ Actual output is hello World
+ 2018-12-10 19:15:52,727 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-10 19:16:34,789 -DEBUG- Question Number is 0The test case is 
+ 2018-12-10 19:16:34,888 -DEBUG- The Excepted output is Hello World
+ Actual output is hello,Worldvalue
+ 2018-12-10 19:16:34,889 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-10 19:17:51,511 -DEBUG- Question Number is 0The test case is 
+ 2018-12-10 19:17:51,567 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-10 19:18:01,296 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-10 19:18:03,762 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-10 19:18:06,523 -DEBUG- <map object at 0x7fe643824198>
+ 2018-12-10 19:18:12,820 -DEBUG- $$1
+Given an array of integers, find the sum of its elements. #
+The first line contains an integer,n, denoting the size of the array.
+The second line contains space-separated integers representing the array's elements.#
+Print the sum of the array.#
+6
+1 2 3 4 10 11#
+31#
+#####
+ 2018-12-10 19:20:08,234 -DEBUG- <map object at 0x7fe642254e80>
+ 2018-12-10 19:20:14,941 -DEBUG- <map object at 0x7fe642254668>
+ 2018-12-10 19:20:18,015 -DEBUG- $$2
+Alice and Bob each created one problem for HackerRank. A reviewer rates the two challenges, awarding points on a scale from 1 to 100 for three categories: problem clarity, originality, and difficulty.<br/>
+We define the rating for Alice's challenge to be the triplet A = (a[0],a[1],a[2]), and the rating for Bob's challenge to be the triplet B = (b[0],b[1],b[2]).<br/><br/>
+Your task is to find their comparison points by comparing a[0] with b[0], b[1] with a[1], and a[2] with b[2].<br /><br/>
+
+    If a[i] > b[i], then Alice is awarded point.<br/>
+    If a[i] < b[i], then Bob is awarded point.<br/>
+    If a[i] = b[i], then neither person receives a point.<br/>
+<br/>
+Comparison points is the total points a person earned.<br/>
+
+Given and A,B can you compare the two challenges and print their respective comparison points?#
+The first line contains 3 space-separated integers describing the respective values in triplet A.<br/>
+The second line contains 3 space-separated integers describing the respective values in triplet B.#
+Print two space-separated integers denoting the respective comparison points earned by Alice and Bob.#
+5 6 7
+3 6 10#
+1 1#
+#####
+ 2018-12-10 19:20:34,221 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n', '11\n-1 1\n0\nPiyush123\n', '1\n-1 0\n0\nPiyush Ranjan\n', '2\n-1\n0\npr\n', '3\n-1\n0\nparvathy\n', '4\n-1\n0\nimran\n']
+ 2018-12-10 19:20:34,221 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-12-10 19:20:34,222 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-12-10 19:20:34,222 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-12-10 19:20:34,222 -DEBUG- The user is 4
+0
+5
+Kevin Raymond
+
+ 2018-12-10 19:20:34,223 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-12-10 19:20:34,223 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-12-10 19:20:34,223 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-12-10 19:20:34,224 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-12-10 19:20:34,224 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-12-10 19:20:34,224 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-12-10 19:20:34,225 -DEBUG- The user is 11
+-1 1
+0
+Piyush123
+
+ 2018-12-10 19:20:34,225 -DEBUG- The user is 1
+-1 0
+0
+Piyush Ranjan
+
+ 2018-12-10 19:20:34,225 -DEBUG- The user is 2
+-1
+0
+pr
+
+ 2018-12-10 19:20:34,226 -DEBUG- The user is 3
+-1
+0
+parvathy
+
+ 2018-12-10 19:20:34,226 -DEBUG- The user is 4
+-1
+0
+imran
+
+ 2018-12-10 19:20:34,227 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check'], ['0', 'Piyush123'], ['0', 'Piyush Ranjan'], ['0', 'pr'], ['0', 'parvathy'], ['0', 'imran']]
+ 2018-12-10 19:20:34,227 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran'])]
+ 2018-12-10 19:20:34,228 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran'])]
+ 2018-12-10 19:20:49,103 -DEBUG- <map object at 0x7fe642274d68>
+ 2018-12-10 19:21:37,086 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-10 19:21:41,441 -DEBUG- Question Number is 0The test case is 
+ 2018-12-10 19:21:41,485 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-10 19:22:39,738 -DEBUG- <map object at 0x7fe645aa6ef0>
+ 2018-12-10 19:23:41,938 -DEBUG- <map object at 0x7fe643814da0>
+ 2018-12-10 19:23:43,474 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-10 19:24:26,274 -DEBUG- ['print("Hello World")']
+ 2018-12-10 19:24:26,287 -DEBUG- ['1', '0', '30', 'Mohammed Numan', '']
+ 2018-12-10 19:24:26,287 -DEBUG- 1 Id is 4
+ 2018-12-10 19:24:26,288 -DEBUG- ['2', '0 1 2', '10', 'Mohammed Furqan', '']
+ 2018-12-10 19:24:26,288 -DEBUG- 2 Id is 4
+ 2018-12-10 19:24:26,289 -DEBUG- ['3', '0', '5', 'Mukesh', '']
+ 2018-12-10 19:24:26,290 -DEBUG- 3 Id is 4
+ 2018-12-10 19:24:26,290 -DEBUG- ['4', '0', '5', 'Kevin Raymond', '']
+ 2018-12-10 19:24:26,291 -DEBUG- 4 Id is 4
+ 2018-12-10 19:24:26,292 -DEBUG- ['5', '0 1 2', '15', 'Piyush', '']
+ 2018-12-10 19:24:26,293 -DEBUG- 5 Id is 4
+ 2018-12-10 19:24:26,294 -DEBUG- ['6', '0', '5', 'Hello', '']
+ 2018-12-10 19:24:26,294 -DEBUG- 6 Id is 4
+ 2018-12-10 19:24:26,295 -DEBUG- ['7', '0', '5', 'Hmm', '']
+ 2018-12-10 19:24:26,295 -DEBUG- 7 Id is 4
+ 2018-12-10 19:24:26,296 -DEBUG- ['8', '0', '5', 'Kevin', '']
+ 2018-12-10 19:24:26,296 -DEBUG- 8 Id is 4
+ 2018-12-10 19:24:26,297 -DEBUG- ['9', '-1 0 1 2 4', '10', 'Brother', '']
+ 2018-12-10 19:24:26,297 -DEBUG- 9 Id is 4
+ 2018-12-10 19:24:26,298 -DEBUG- ['10', '-1 0 1 2', '10', 'Final Check', '']
+ 2018-12-10 19:24:26,299 -DEBUG- 10 Id is 4
+ 2018-12-10 19:24:26,299 -DEBUG- ['11', '-1 1', '0', 'Piyush123', '']
+ 2018-12-10 19:24:26,300 -DEBUG- 11 Id is 4
+ 2018-12-10 19:24:26,300 -DEBUG- ['1', '-1 0', '0', 'Piyush Ranjan', '']
+ 2018-12-10 19:24:26,301 -DEBUG- 1 Id is 4
+ 2018-12-10 19:24:26,301 -DEBUG- ['2', '-1', '0', 'pr', '']
+ 2018-12-10 19:24:26,302 -DEBUG- 2 Id is 4
+ 2018-12-10 19:24:26,302 -DEBUG- ['3', '-1', '0', 'parvathy', '']
+ 2018-12-10 19:24:26,303 -DEBUG- 3 Id is 4
+ 2018-12-10 19:24:26,303 -DEBUG- ['4', '-1', '0', 'imran', '']
+ 2018-12-10 19:24:26,304 -DEBUG- 4 Id is 4
+ 2018-12-10 19:24:26,304 -DEBUG- Into The iff....
+ 2018-12-10 19:24:26,304 -DEBUG- -1
+ 2018-12-10 19:24:32,801 -DEBUG- [('<p>Can i have comments on my code??</p>\n\n<pre>\n<code class="language-python">#! /usr/bin/python3.5\nimport sys\n\ndef tic():\n    theBoard = {\'1\': \' \', \'2\': \' \', \'3\': \' \',\n    \'4\': \' \', \'5\': \' \', \'6\': \' \',\n    \'7\': \' \', \'8\': \' \', \'9\': \' \'}\n    taketurn(theBoard)\n\n\ndef printboard(b):\n    print("*"*80)\n    print("{:^80s}".format(b[\'1\']+"|"+b[\'2\']+"|"+b[\'3\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'4\']+"|"+b[\'5\']+"|"+b[\'6\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'7\']+"|"+b[\'8\']+"|"+b[\'9\']))\n    print("*"*80)\n\ndef taketurn(b):\n    turn = \'X\'\n    for i in range(9):\n        printboard(b)\n        b[takemove(b,turn)] = turn\n        check(b,turn)\n        turn = \'X\' if turn==\'O\' else \'O\'\n    print("Its a TIE.....!")\n    printboard(b)\n\ndef check(b,p):\n    if b[\'1\']==b[\'2\']==b[\'3\']==p or b[\'4\']==b[\'5\']==b[\'6\']==p or b[\'7\']==b[\'8\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'4\']==b[\'7\']==p or b[\'2\']==b[\'5\']==b[\'8\']==p or b[\'3\']==b[\'6\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'5\']==b[\'9\']==p or b[\'3\']==b[\'5\']==b[\'7\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\ndef takemove(b,p):\n    print("Player "+p+".Move on which space?[1-9]")\n    while(True):\n        move = input()\n        if move in b and isempty(b,move):\n            return move\n        else:\n            print("Move should be between [1-9] and should be Valid")\n\ndef isempty(b,m):\n    return True if b[m]==" " else False\n\ndef main():\n    tic()\n\nmain()</code></pre>\n\n<p>This is the code for tic tack toe.....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Now it will work.</p>\n', '\nMohammed Numan\n'), ('\n<p>This is a comment....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Can someone explain me this problem</p>\n', 'Brother\n'), ('\n',)]
+ 2018-12-10 19:24:39,186 -DEBUG- <map object at 0x7fe64227f6a0>
+ 2018-12-10 19:24:44,723 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-10 19:24:47,765 -DEBUG- ['print("Hello World")']
+ 2018-12-10 19:24:47,775 -DEBUG- ['1', '0', '30', 'Mohammed Numan', '']
+ 2018-12-10 19:24:47,776 -DEBUG- 1 Id is 4
+ 2018-12-10 19:24:47,777 -DEBUG- ['2', '0 1 2', '10', 'Mohammed Furqan', '']
+ 2018-12-10 19:24:47,777 -DEBUG- 2 Id is 4
+ 2018-12-10 19:24:47,778 -DEBUG- ['3', '0', '5', 'Mukesh', '']
+ 2018-12-10 19:24:47,778 -DEBUG- 3 Id is 4
+ 2018-12-10 19:24:47,779 -DEBUG- ['4', '0', '5', 'Kevin Raymond', '']
+ 2018-12-10 19:24:47,779 -DEBUG- 4 Id is 4
+ 2018-12-10 19:24:47,779 -DEBUG- ['5', '0 1 2', '15', 'Piyush', '']
+ 2018-12-10 19:24:47,780 -DEBUG- 5 Id is 4
+ 2018-12-10 19:24:47,780 -DEBUG- ['6', '0', '5', 'Hello', '']
+ 2018-12-10 19:24:47,780 -DEBUG- 6 Id is 4
+ 2018-12-10 19:24:47,781 -DEBUG- ['7', '0', '5', 'Hmm', '']
+ 2018-12-10 19:24:47,781 -DEBUG- 7 Id is 4
+ 2018-12-10 19:24:47,782 -DEBUG- ['8', '0', '5', 'Kevin', '']
+ 2018-12-10 19:24:47,782 -DEBUG- 8 Id is 4
+ 2018-12-10 19:24:47,783 -DEBUG- ['9', '-1 0 1 2 4', '10', 'Brother', '']
+ 2018-12-10 19:24:47,783 -DEBUG- 9 Id is 4
+ 2018-12-10 19:24:47,784 -DEBUG- ['10', '-1 0 1 2', '10', 'Final Check', '']
+ 2018-12-10 19:24:47,784 -DEBUG- 10 Id is 4
+ 2018-12-10 19:24:47,785 -DEBUG- ['11', '-1 1', '0', 'Piyush123', '']
+ 2018-12-10 19:24:47,785 -DEBUG- 11 Id is 4
+ 2018-12-10 19:24:47,785 -DEBUG- ['1', '-1 0', '0', 'Piyush Ranjan', '']
+ 2018-12-10 19:24:47,785 -DEBUG- 1 Id is 4
+ 2018-12-10 19:24:47,786 -DEBUG- ['2', '-1', '0', 'pr', '']
+ 2018-12-10 19:24:47,786 -DEBUG- 2 Id is 4
+ 2018-12-10 19:24:47,787 -DEBUG- ['3', '-1', '0', 'parvathy', '']
+ 2018-12-10 19:24:47,787 -DEBUG- 3 Id is 4
+ 2018-12-10 19:24:47,788 -DEBUG- ['4', '-1 0', '0', 'imran', '']
+ 2018-12-10 19:24:47,789 -DEBUG- 4 Id is 4
+ 2018-12-10 19:24:57,173 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-10 19:24:58,961 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-10 19:25:00,588 -DEBUG- [('<p>Can i have comments on my code??</p>\n\n<pre>\n<code class="language-python">#! /usr/bin/python3.5\nimport sys\n\ndef tic():\n    theBoard = {\'1\': \' \', \'2\': \' \', \'3\': \' \',\n    \'4\': \' \', \'5\': \' \', \'6\': \' \',\n    \'7\': \' \', \'8\': \' \', \'9\': \' \'}\n    taketurn(theBoard)\n\n\ndef printboard(b):\n    print("*"*80)\n    print("{:^80s}".format(b[\'1\']+"|"+b[\'2\']+"|"+b[\'3\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'4\']+"|"+b[\'5\']+"|"+b[\'6\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'7\']+"|"+b[\'8\']+"|"+b[\'9\']))\n    print("*"*80)\n\ndef taketurn(b):\n    turn = \'X\'\n    for i in range(9):\n        printboard(b)\n        b[takemove(b,turn)] = turn\n        check(b,turn)\n        turn = \'X\' if turn==\'O\' else \'O\'\n    print("Its a TIE.....!")\n    printboard(b)\n\ndef check(b,p):\n    if b[\'1\']==b[\'2\']==b[\'3\']==p or b[\'4\']==b[\'5\']==b[\'6\']==p or b[\'7\']==b[\'8\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'4\']==b[\'7\']==p or b[\'2\']==b[\'5\']==b[\'8\']==p or b[\'3\']==b[\'6\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'5\']==b[\'9\']==p or b[\'3\']==b[\'5\']==b[\'7\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\ndef takemove(b,p):\n    print("Player "+p+".Move on which space?[1-9]")\n    while(True):\n        move = input()\n        if move in b and isempty(b,move):\n            return move\n        else:\n            print("Move should be between [1-9] and should be Valid")\n\ndef isempty(b,m):\n    return True if b[m]==" " else False\n\ndef main():\n    tic()\n\nmain()</code></pre>\n\n<p>This is the code for tic tack toe.....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Now it will work.</p>\n', '\nMohammed Numan\n'), ('\n<p>This is a comment....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Can someone explain me this problem</p>\n', 'Brother\n'), ('\n',)]
+ 2018-12-10 19:25:18,990 -DEBUG- ['print("Hello World")']
+ 2018-12-10 19:25:19,002 -DEBUG- ['1', '0', '30', 'Mohammed Numan', '']
+ 2018-12-10 19:25:19,002 -DEBUG- 1 Id is 4
+ 2018-12-10 19:25:19,003 -DEBUG- ['2', '0 1 2', '10', 'Mohammed Furqan', '']
+ 2018-12-10 19:25:19,004 -DEBUG- 2 Id is 4
+ 2018-12-10 19:25:19,004 -DEBUG- ['3', '0', '5', 'Mukesh', '']
+ 2018-12-10 19:25:19,005 -DEBUG- 3 Id is 4
+ 2018-12-10 19:25:19,005 -DEBUG- ['4', '0', '5', 'Kevin Raymond', '']
+ 2018-12-10 19:25:19,006 -DEBUG- 4 Id is 4
+ 2018-12-10 19:25:19,007 -DEBUG- ['5', '0 1 2', '15', 'Piyush', '']
+ 2018-12-10 19:25:19,007 -DEBUG- 5 Id is 4
+ 2018-12-10 19:25:19,008 -DEBUG- ['6', '0', '5', 'Hello', '']
+ 2018-12-10 19:25:19,008 -DEBUG- 6 Id is 4
+ 2018-12-10 19:25:19,009 -DEBUG- ['7', '0', '5', 'Hmm', '']
+ 2018-12-10 19:25:19,009 -DEBUG- 7 Id is 4
+ 2018-12-10 19:25:19,010 -DEBUG- ['8', '0', '5', 'Kevin', '']
+ 2018-12-10 19:25:19,010 -DEBUG- 8 Id is 4
+ 2018-12-10 19:25:19,011 -DEBUG- ['9', '-1 0 1 2 4', '10', 'Brother', '']
+ 2018-12-10 19:25:19,011 -DEBUG- 9 Id is 4
+ 2018-12-10 19:25:19,013 -DEBUG- ['10', '-1 0 1 2', '10', 'Final Check', '']
+ 2018-12-10 19:25:19,013 -DEBUG- 10 Id is 4
+ 2018-12-10 19:25:19,014 -DEBUG- ['11', '-1 1', '0', 'Piyush123', '']
+ 2018-12-10 19:25:19,014 -DEBUG- 11 Id is 4
+ 2018-12-10 19:25:19,015 -DEBUG- ['1', '-1 0', '0', 'Piyush Ranjan', '']
+ 2018-12-10 19:25:19,015 -DEBUG- 1 Id is 4
+ 2018-12-10 19:25:19,016 -DEBUG- ['2', '-1', '0', 'pr', '']
+ 2018-12-10 19:25:19,016 -DEBUG- 2 Id is 4
+ 2018-12-10 19:25:19,017 -DEBUG- ['3', '-1', '0', 'parvathy', '']
+ 2018-12-10 19:25:19,017 -DEBUG- 3 Id is 4
+ 2018-12-10 19:25:19,018 -DEBUG- ['4', '-1 0', '0', 'imran', '']
+ 2018-12-10 19:25:19,018 -DEBUG- 4 Id is 4
+ 2018-12-10 19:25:20,581 -DEBUG- <map object at 0x7fe64226c518>
+ 2018-12-10 19:25:22,386 -DEBUG- $$1
+Given an array of integers, find the sum of its elements. #
+The first line contains an integer,n, denoting the size of the array.
+The second line contains space-separated integers representing the array's elements.#
+Print the sum of the array.#
+6
+1 2 3 4 10 11#
+31#
+#####
+ 2018-12-10 19:25:23,834 -DEBUG- ['n = int(input())', 'arr = list(map(int, input().strip().split()))', 'print(sum(arr))']
+ 2018-12-10 19:25:23,849 -DEBUG- ['1', '0', '30', 'Mohammed Numan', '']
+ 2018-12-10 19:25:23,849 -DEBUG- 1 Id is 4
+ 2018-12-10 19:25:23,850 -DEBUG- ['2', '0 1 2', '10', 'Mohammed Furqan', '']
+ 2018-12-10 19:25:23,851 -DEBUG- 2 Id is 4
+ 2018-12-10 19:25:23,851 -DEBUG- ['3', '0', '5', 'Mukesh', '']
+ 2018-12-10 19:25:23,852 -DEBUG- 3 Id is 4
+ 2018-12-10 19:25:23,853 -DEBUG- ['4', '0', '5', 'Kevin Raymond', '']
+ 2018-12-10 19:25:23,853 -DEBUG- 4 Id is 4
+ 2018-12-10 19:25:23,853 -DEBUG- Into The iff....
+ 2018-12-10 19:25:23,854 -DEBUG- 0
+ 2018-12-10 19:25:23,854 -DEBUG- ['5', '0 1 2', '15', 'Piyush', '']
+ 2018-12-10 19:25:23,855 -DEBUG- 5 Id is 4
+ 2018-12-10 19:25:23,855 -DEBUG- ['6', '0', '5', 'Hello', '']
+ 2018-12-10 19:25:23,856 -DEBUG- 6 Id is 4
+ 2018-12-10 19:25:23,857 -DEBUG- ['7', '0', '5', 'Hmm', '']
+ 2018-12-10 19:25:23,858 -DEBUG- 7 Id is 4
+ 2018-12-10 19:25:23,858 -DEBUG- ['8', '0', '5', 'Kevin', '']
+ 2018-12-10 19:25:23,859 -DEBUG- 8 Id is 4
+ 2018-12-10 19:25:23,860 -DEBUG- ['9', '-1 0 1 2 4', '10', 'Brother', '']
+ 2018-12-10 19:25:23,861 -DEBUG- 9 Id is 4
+ 2018-12-10 19:25:23,862 -DEBUG- ['10', '-1 0 1 2', '10', 'Final Check', '']
+ 2018-12-10 19:25:23,862 -DEBUG- 10 Id is 4
+ 2018-12-10 19:25:23,862 -DEBUG- ['11', '-1 1', '0', 'Piyush123', '']
+ 2018-12-10 19:25:23,863 -DEBUG- 11 Id is 4
+ 2018-12-10 19:25:23,863 -DEBUG- ['1', '-1 0', '0', 'Piyush Ranjan', '']
+ 2018-12-10 19:25:23,864 -DEBUG- 1 Id is 4
+ 2018-12-10 19:25:23,864 -DEBUG- ['2', '-1', '0', 'pr', '']
+ 2018-12-10 19:25:23,865 -DEBUG- 2 Id is 4
+ 2018-12-10 19:25:23,865 -DEBUG- ['3', '-1', '0', 'parvathy', '']
+ 2018-12-10 19:25:23,866 -DEBUG- 3 Id is 4
+ 2018-12-10 19:25:23,866 -DEBUG- ['4', '-1 0', '0', 'imran', '']
+ 2018-12-10 19:25:23,867 -DEBUG- 4 Id is 4
+ 2018-12-10 19:25:23,867 -DEBUG- Into The iff....
+ 2018-12-10 19:25:23,868 -DEBUG- -1 0
+ 2018-12-10 19:25:28,304 -DEBUG- $$1
+Given an array of integers, find the sum of its elements. #
+The first line contains an integer,n, denoting the size of the array.
+The second line contains space-separated integers representing the array's elements.#
+Print the sum of the array.#
+6
+1 2 3 4 10 11#
+31#
+#####
+ 2018-12-10 19:25:32,898 -DEBUG- Question Number is 1The test case is 5
+8 4 3 6 2
+
+ 2018-12-10 19:25:32,939 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-10 19:25:41,311 -DEBUG- Question Number is 1The test case is 5
+8 4 3 6 2
+
+ 2018-12-10 19:25:41,323 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-10 19:25:45,292 -DEBUG- Question Number is 1The test case is 5
+8 4 3 6 2
+
+ 2018-12-10 19:25:51,379 -DEBUG- Question Number is 1The test case is 5
+8 4 3 6 2
+
+ 2018-12-10 19:25:54,632 -DEBUG- Question Number is 1The test case is 5
+8 4 3 6 2
+
+ 2018-12-10 19:25:56,537 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-10 19:26:35,345 -DEBUG- <map object at 0x7fe642214080>
+ 2018-12-10 19:26:36,829 -DEBUG- <map object at 0x7fe642214fd0>
+ 2018-12-10 19:26:38,762 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-10 19:26:39,956 -DEBUG- [('<p>Can i have comments on my code??</p>\n\n<pre>\n<code class="language-python">#! /usr/bin/python3.5\nimport sys\n\ndef tic():\n    theBoard = {\'1\': \' \', \'2\': \' \', \'3\': \' \',\n    \'4\': \' \', \'5\': \' \', \'6\': \' \',\n    \'7\': \' \', \'8\': \' \', \'9\': \' \'}\n    taketurn(theBoard)\n\n\ndef printboard(b):\n    print("*"*80)\n    print("{:^80s}".format(b[\'1\']+"|"+b[\'2\']+"|"+b[\'3\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'4\']+"|"+b[\'5\']+"|"+b[\'6\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'7\']+"|"+b[\'8\']+"|"+b[\'9\']))\n    print("*"*80)\n\ndef taketurn(b):\n    turn = \'X\'\n    for i in range(9):\n        printboard(b)\n        b[takemove(b,turn)] = turn\n        check(b,turn)\n        turn = \'X\' if turn==\'O\' else \'O\'\n    print("Its a TIE.....!")\n    printboard(b)\n\ndef check(b,p):\n    if b[\'1\']==b[\'2\']==b[\'3\']==p or b[\'4\']==b[\'5\']==b[\'6\']==p or b[\'7\']==b[\'8\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'4\']==b[\'7\']==p or b[\'2\']==b[\'5\']==b[\'8\']==p or b[\'3\']==b[\'6\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'5\']==b[\'9\']==p or b[\'3\']==b[\'5\']==b[\'7\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\ndef takemove(b,p):\n    print("Player "+p+".Move on which space?[1-9]")\n    while(True):\n        move = input()\n        if move in b and isempty(b,move):\n            return move\n        else:\n            print("Move should be between [1-9] and should be Valid")\n\ndef isempty(b,m):\n    return True if b[m]==" " else False\n\ndef main():\n    tic()\n\nmain()</code></pre>\n\n<p>This is the code for tic tack toe.....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Now it will work.</p>\n', '\nMohammed Numan\n'), ('\n<p>This is a comment....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Can someone explain me this problem</p>\n', 'Brother\n'), ('\n',)]
+ 2018-12-10 19:27:19,825 -DEBUG- [('<p>Can i have comments on my code??</p>\n\n<pre>\n<code class="language-python">#! /usr/bin/python3.5\nimport sys\n\ndef tic():\n    theBoard = {\'1\': \' \', \'2\': \' \', \'3\': \' \',\n    \'4\': \' \', \'5\': \' \', \'6\': \' \',\n    \'7\': \' \', \'8\': \' \', \'9\': \' \'}\n    taketurn(theBoard)\n\n\ndef printboard(b):\n    print("*"*80)\n    print("{:^80s}".format(b[\'1\']+"|"+b[\'2\']+"|"+b[\'3\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'4\']+"|"+b[\'5\']+"|"+b[\'6\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'7\']+"|"+b[\'8\']+"|"+b[\'9\']))\n    print("*"*80)\n\ndef taketurn(b):\n    turn = \'X\'\n    for i in range(9):\n        printboard(b)\n        b[takemove(b,turn)] = turn\n        check(b,turn)\n        turn = \'X\' if turn==\'O\' else \'O\'\n    print("Its a TIE.....!")\n    printboard(b)\n\ndef check(b,p):\n    if b[\'1\']==b[\'2\']==b[\'3\']==p or b[\'4\']==b[\'5\']==b[\'6\']==p or b[\'7\']==b[\'8\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'4\']==b[\'7\']==p or b[\'2\']==b[\'5\']==b[\'8\']==p or b[\'3\']==b[\'6\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'5\']==b[\'9\']==p or b[\'3\']==b[\'5\']==b[\'7\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\ndef takemove(b,p):\n    print("Player "+p+".Move on which space?[1-9]")\n    while(True):\n        move = input()\n        if move in b and isempty(b,move):\n            return move\n        else:\n            print("Move should be between [1-9] and should be Valid")\n\ndef isempty(b,m):\n    return True if b[m]==" " else False\n\ndef main():\n    tic()\n\nmain()</code></pre>\n\n<p>This is the code for tic tack toe.....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Now it will work.</p>\n', '\nMohammed Numan\n'), ('\n<p>This is a comment....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Can someone explain me this problem</p>\n', 'Brother\n'), ('\n',)]
+ 2018-12-10 19:29:09,406 -DEBUG- [('<p>Can i have comments on my code??</p>\n\n<pre>\n<code class="language-python">#! /usr/bin/python3.5\nimport sys\n\ndef tic():\n    theBoard = {\'1\': \' \', \'2\': \' \', \'3\': \' \',\n    \'4\': \' \', \'5\': \' \', \'6\': \' \',\n    \'7\': \' \', \'8\': \' \', \'9\': \' \'}\n    taketurn(theBoard)\n\n\ndef printboard(b):\n    print("*"*80)\n    print("{:^80s}".format(b[\'1\']+"|"+b[\'2\']+"|"+b[\'3\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'4\']+"|"+b[\'5\']+"|"+b[\'6\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'7\']+"|"+b[\'8\']+"|"+b[\'9\']))\n    print("*"*80)\n\ndef taketurn(b):\n    turn = \'X\'\n    for i in range(9):\n        printboard(b)\n        b[takemove(b,turn)] = turn\n        check(b,turn)\n        turn = \'X\' if turn==\'O\' else \'O\'\n    print("Its a TIE.....!")\n    printboard(b)\n\ndef check(b,p):\n    if b[\'1\']==b[\'2\']==b[\'3\']==p or b[\'4\']==b[\'5\']==b[\'6\']==p or b[\'7\']==b[\'8\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'4\']==b[\'7\']==p or b[\'2\']==b[\'5\']==b[\'8\']==p or b[\'3\']==b[\'6\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'5\']==b[\'9\']==p or b[\'3\']==b[\'5\']==b[\'7\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\ndef takemove(b,p):\n    print("Player "+p+".Move on which space?[1-9]")\n    while(True):\n        move = input()\n        if move in b and isempty(b,move):\n            return move\n        else:\n            print("Move should be between [1-9] and should be Valid")\n\ndef isempty(b,m):\n    return True if b[m]==" " else False\n\ndef main():\n    tic()\n\nmain()</code></pre>\n\n<p>This is the code for tic tack toe.....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Now it will work.</p>\n', '\nMohammed Numan\n'), ('\n<p>This is a comment....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Can someone explain me this problem</p>\n', 'Brother\n'), ('\n',)]
+ 2018-12-10 19:29:10,416 -DEBUG- ['print("Hello World")']
+ 2018-12-10 19:29:10,427 -DEBUG- ['1', '0', '30', 'Mohammed Numan', '']
+ 2018-12-10 19:29:10,427 -DEBUG- 1 Id is 4
+ 2018-12-10 19:29:10,428 -DEBUG- ['2', '0 1 2', '10', 'Mohammed Furqan', '']
+ 2018-12-10 19:29:10,429 -DEBUG- 2 Id is 4
+ 2018-12-10 19:29:10,430 -DEBUG- ['3', '0', '5', 'Mukesh', '']
+ 2018-12-10 19:29:10,430 -DEBUG- 3 Id is 4
+ 2018-12-10 19:29:10,431 -DEBUG- ['4', '0 1', '5', 'Kevin Raymond', '']
+ 2018-12-10 19:29:10,432 -DEBUG- 4 Id is 4
+ 2018-12-10 19:29:10,432 -DEBUG- ['5', '0 1 2', '15', 'Piyush', '']
+ 2018-12-10 19:29:10,433 -DEBUG- 5 Id is 4
+ 2018-12-10 19:29:10,433 -DEBUG- ['6', '0', '5', 'Hello', '']
+ 2018-12-10 19:29:10,433 -DEBUG- 6 Id is 4
+ 2018-12-10 19:29:10,434 -DEBUG- ['7', '0', '5', 'Hmm', '']
+ 2018-12-10 19:29:10,434 -DEBUG- 7 Id is 4
+ 2018-12-10 19:29:10,434 -DEBUG- ['8', '0', '5', 'Kevin', '']
+ 2018-12-10 19:29:10,434 -DEBUG- 8 Id is 4
+ 2018-12-10 19:29:10,435 -DEBUG- ['9', '-1 0 1 2 4', '10', 'Brother', '']
+ 2018-12-10 19:29:10,435 -DEBUG- 9 Id is 4
+ 2018-12-10 19:29:10,435 -DEBUG- ['10', '-1 0 1 2', '10', 'Final Check', '']
+ 2018-12-10 19:29:10,436 -DEBUG- 10 Id is 4
+ 2018-12-10 19:29:10,436 -DEBUG- ['11', '-1 1', '0', 'Piyush123', '']
+ 2018-12-10 19:29:10,436 -DEBUG- 11 Id is 4
+ 2018-12-10 19:29:10,436 -DEBUG- ['1', '-1 0', '0', 'Piyush Ranjan', '']
+ 2018-12-10 19:29:10,437 -DEBUG- 1 Id is 4
+ 2018-12-10 19:29:10,437 -DEBUG- ['2', '-1', '0', 'pr', '']
+ 2018-12-10 19:29:10,437 -DEBUG- 2 Id is 4
+ 2018-12-10 19:29:10,438 -DEBUG- ['3', '-1', '0', 'parvathy', '']
+ 2018-12-10 19:29:10,438 -DEBUG- 3 Id is 4
+ 2018-12-10 19:29:10,438 -DEBUG- ['4', '-1 0 1', '0', 'imran', '']
+ 2018-12-10 19:29:10,439 -DEBUG- 4 Id is 4
+ 2018-12-10 19:29:12,006 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-10 19:29:32,295 -DEBUG- <map object at 0x7fe6422146d8>
+ 2018-12-10 19:29:33,979 -DEBUG- <map object at 0x7fe642209b00>
+ 2018-12-10 19:29:37,132 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-10 19:29:41,599 -DEBUG- <map object at 0x7fe64227fe80>
+ 2018-12-13 10:48:19,903 -WARNING- Not Found: /
+ 2018-12-13 10:48:22,058 -WARNING- Not Found: /favicon.ico
+ 2018-12-13 10:51:32,915 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-13 10:51:53,323 -DEBUG- <map object at 0x7f7dd9fd3278>
+ 2018-12-13 10:51:56,084 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0 1\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n', '11\n-1 1\n0\nPiyush123\n', '1\n-1 0\n0\nPiyush Ranjan\n', '2\n-1\n0\npr\n', '3\n-1\n0\nparvathy\n', '4\n-1 0 1\n0\nimran\n']
+ 2018-12-13 10:51:56,085 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-12-13 10:51:56,085 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-12-13 10:51:56,086 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-12-13 10:51:56,086 -DEBUG- The user is 4
+0 1
+5
+Kevin Raymond
+
+ 2018-12-13 10:51:56,086 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-12-13 10:51:56,087 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-12-13 10:51:56,087 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-12-13 10:51:56,087 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-12-13 10:51:56,087 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-12-13 10:51:56,088 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-12-13 10:51:56,088 -DEBUG- The user is 11
+-1 1
+0
+Piyush123
+
+ 2018-12-13 10:51:56,088 -DEBUG- The user is 1
+-1 0
+0
+Piyush Ranjan
+
+ 2018-12-13 10:51:56,089 -DEBUG- The user is 2
+-1
+0
+pr
+
+ 2018-12-13 10:51:56,089 -DEBUG- The user is 3
+-1
+0
+parvathy
+
+ 2018-12-13 10:51:56,089 -DEBUG- The user is 4
+-1 0 1
+0
+imran
+
+ 2018-12-13 10:51:56,090 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check'], ['0', 'Piyush123'], ['0', 'Piyush Ranjan'], ['0', 'pr'], ['0', 'parvathy'], ['0', 'imran']]
+ 2018-12-13 10:51:56,090 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran'])]
+ 2018-12-13 10:51:56,090 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran'])]
+ 2018-12-13 10:52:31,345 -DEBUG- <map object at 0x7f7dd9faee48>
+ 2018-12-13 10:52:32,835 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-13 10:52:48,950 -DEBUG- Question Number is 0The test case is 
+ 2018-12-13 10:52:49,440 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-13 10:52:59,531 -DEBUG- Question Number is 0The test case is 
+ 2018-12-13 10:52:59,549 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-13 10:53:28,881 -DEBUG- Question Number is 0The test case is 
+ 2018-12-13 10:53:28,920 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-13 10:53:38,766 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-13 10:53:42,441 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-13 10:53:45,227 -DEBUG- ['print("Hello World")']
+ 2018-12-13 10:53:45,235 -DEBUG- ['1', '0', '30', 'Mohammed Numan', '']
+ 2018-12-13 10:53:45,236 -DEBUG- 1 Id is 2
+ 2018-12-13 10:53:45,237 -DEBUG- ['2', '0 1 2', '10', 'Mohammed Furqan', '']
+ 2018-12-13 10:53:45,237 -DEBUG- 2 Id is 2
+ 2018-12-13 10:53:45,238 -DEBUG- ['3', '0', '5', 'Mukesh', '']
+ 2018-12-13 10:53:45,238 -DEBUG- 3 Id is 2
+ 2018-12-13 10:53:45,238 -DEBUG- ['4', '0 1', '5', 'Kevin Raymond', '']
+ 2018-12-13 10:53:45,240 -DEBUG- 4 Id is 2
+ 2018-12-13 10:53:45,240 -DEBUG- ['5', '0 1 2', '15', 'Piyush', '']
+ 2018-12-13 10:53:45,241 -DEBUG- 5 Id is 2
+ 2018-12-13 10:53:45,241 -DEBUG- ['6', '0', '5', 'Hello', '']
+ 2018-12-13 10:53:45,242 -DEBUG- 6 Id is 2
+ 2018-12-13 10:53:45,242 -DEBUG- ['7', '0', '5', 'Hmm', '']
+ 2018-12-13 10:53:45,243 -DEBUG- 7 Id is 2
+ 2018-12-13 10:53:45,243 -DEBUG- ['8', '0', '5', 'Kevin', '']
+ 2018-12-13 10:53:45,244 -DEBUG- 8 Id is 2
+ 2018-12-13 10:53:45,244 -DEBUG- ['9', '-1 0 1 2 4', '10', 'Brother', '']
+ 2018-12-13 10:53:45,245 -DEBUG- 9 Id is 2
+ 2018-12-13 10:53:45,245 -DEBUG- ['10', '-1 0 1 2', '10', 'Final Check', '']
+ 2018-12-13 10:53:45,246 -DEBUG- 10 Id is 2
+ 2018-12-13 10:53:45,246 -DEBUG- ['11', '-1 1', '0', 'Piyush123', '']
+ 2018-12-13 10:53:45,246 -DEBUG- 11 Id is 2
+ 2018-12-13 10:53:45,247 -DEBUG- ['1', '-1 0', '0', 'Piyush Ranjan', '']
+ 2018-12-13 10:53:45,247 -DEBUG- 1 Id is 2
+ 2018-12-13 10:53:45,248 -DEBUG- ['2', '-1', '0', 'pr', '']
+ 2018-12-13 10:53:45,248 -DEBUG- 2 Id is 2
+ 2018-12-13 10:53:45,249 -DEBUG- Into The iff....
+ 2018-12-13 10:53:45,249 -DEBUG- -1
+ 2018-12-13 10:53:45,250 -DEBUG- ['3', '-1', '0', 'parvathy', '']
+ 2018-12-13 10:53:45,250 -DEBUG- 3 Id is 2
+ 2018-12-13 10:53:45,251 -DEBUG- ['4', '-1 0 1', '0', 'imran', '']
+ 2018-12-13 10:53:45,251 -DEBUG- 4 Id is 2
+ 2018-12-13 10:53:49,383 -DEBUG- <map object at 0x7f7dd676c710>
+ 2018-12-13 10:53:50,965 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-13 10:53:54,172 -DEBUG- $$1
+Given an array of integers, find the sum of its elements. #
+The first line contains an integer,n, denoting the size of the array.
+The second line contains space-separated integers representing the array's elements.#
+Print the sum of the array.#
+6
+1 2 3 4 10 11#
+31#
+#####
+ 2018-12-13 10:54:02,136 -DEBUG- Question Number is 1The test case is 5
+8 4 3 6 2
+
+ 2018-12-13 10:54:02,142 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-13 10:54:09,096 -DEBUG- Question Number is 1The test case is 5
+8 4 3 6 2
+
+ 2018-12-13 10:54:09,171 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-13 10:54:47,799 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0 1\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n', '11\n-1 1\n0\nPiyush123\n', '1\n-1 0\n0\nPiyush Ranjan\n', '2\n-1 0\n0\npr\n', '3\n-1\n0\nparvathy\n', '4\n-1 0 1\n0\nimran\n']
+ 2018-12-13 10:54:47,800 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-12-13 10:54:47,800 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-12-13 10:54:47,800 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-12-13 10:54:47,801 -DEBUG- The user is 4
+0 1
+5
+Kevin Raymond
+
+ 2018-12-13 10:54:47,801 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-12-13 10:54:47,802 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-12-13 10:54:47,802 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-12-13 10:54:47,802 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-12-13 10:54:47,803 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-12-13 10:54:47,803 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-12-13 10:54:47,804 -DEBUG- The user is 11
+-1 1
+0
+Piyush123
+
+ 2018-12-13 10:54:47,804 -DEBUG- The user is 1
+-1 0
+0
+Piyush Ranjan
+
+ 2018-12-13 10:54:47,805 -DEBUG- The user is 2
+-1 0
+0
+pr
+
+ 2018-12-13 10:54:47,806 -DEBUG- The user is 3
+-1
+0
+parvathy
+
+ 2018-12-13 10:54:47,806 -DEBUG- The user is 4
+-1 0 1
+0
+imran
+
+ 2018-12-13 10:54:47,806 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check'], ['0', 'Piyush123'], ['0', 'Piyush Ranjan'], ['0', 'pr'], ['0', 'parvathy'], ['0', 'imran']]
+ 2018-12-13 10:54:47,807 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran'])]
+ 2018-12-13 10:54:47,807 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran'])]
+ 2018-12-13 10:55:26,090 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0 1\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n', '11\n-1 1\n0\nPiyush123\n', '1\n-1 0\n0\nPiyush Ranjan\n', '2\n-1 0\n0\npr\n', '3\n-1\n0\nparvathy\n', '4\n-1 0 1\n0\nimran\n']
+ 2018-12-13 10:55:26,091 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-12-13 10:55:26,091 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-12-13 10:55:26,092 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-12-13 10:55:26,092 -DEBUG- The user is 4
+0 1
+5
+Kevin Raymond
+
+ 2018-12-13 10:55:26,092 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-12-13 10:55:26,093 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-12-13 10:55:26,093 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-12-13 10:55:26,093 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-12-13 10:55:26,094 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-12-13 10:55:26,094 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-12-13 10:55:26,095 -DEBUG- The user is 11
+-1 1
+0
+Piyush123
+
+ 2018-12-13 10:55:26,095 -DEBUG- The user is 1
+-1 0
+0
+Piyush Ranjan
+
+ 2018-12-13 10:55:26,095 -DEBUG- The user is 2
+-1 0
+0
+pr
+
+ 2018-12-13 10:55:26,096 -DEBUG- The user is 3
+-1
+0
+parvathy
+
+ 2018-12-13 10:55:26,096 -DEBUG- The user is 4
+-1 0 1
+0
+imran
+
+ 2018-12-13 10:55:26,096 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check'], ['0', 'Piyush123'], ['0', 'Piyush Ranjan'], ['0', 'pr'], ['0', 'parvathy'], ['0', 'imran']]
+ 2018-12-13 10:55:26,097 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran'])]
+ 2018-12-13 10:55:26,097 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran'])]
+ 2018-12-13 11:00:06,995 -DEBUG- ('test', '123123', 'test@gmail.com', '1234567892')
+ 2018-12-13 11:00:18,695 -DEBUG- ['', '1\n0\n30\nMohammed Numan\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0 1\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n', '11\n-1 1\n0\nPiyush123\n', '1\n-1 0\n0\nPiyush Ranjan\n', '2\n-1 0\n0\npr\n', '3\n-1\n0\nparvathy\n', '4\n-1 0 1\n0\nimran\n', '5\n-1\n0\ntest\n']
+ 2018-12-13 11:00:18,696 -DEBUG- The user is 1
+0
+30
+Mohammed Numan
+
+ 2018-12-13 11:00:18,697 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-12-13 11:00:18,697 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-12-13 11:00:18,698 -DEBUG- The user is 4
+0 1
+5
+Kevin Raymond
+
+ 2018-12-13 11:00:18,698 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-12-13 11:00:18,698 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-12-13 11:00:18,699 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-12-13 11:00:18,699 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-12-13 11:00:18,699 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-12-13 11:00:18,700 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-12-13 11:00:18,700 -DEBUG- The user is 11
+-1 1
+0
+Piyush123
+
+ 2018-12-13 11:00:18,700 -DEBUG- The user is 1
+-1 0
+0
+Piyush Ranjan
+
+ 2018-12-13 11:00:18,700 -DEBUG- The user is 2
+-1 0
+0
+pr
+
+ 2018-12-13 11:00:18,701 -DEBUG- The user is 3
+-1
+0
+parvathy
+
+ 2018-12-13 11:00:18,701 -DEBUG- The user is 4
+-1 0 1
+0
+imran
+
+ 2018-12-13 11:00:18,701 -DEBUG- The user is 5
+-1
+0
+test
+
+ 2018-12-13 11:00:18,701 -DEBUG- [['30', 'Mohammed Numan'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check'], ['0', 'Piyush123'], ['0', 'Piyush Ranjan'], ['0', 'pr'], ['0', 'parvathy'], ['0', 'imran'], ['0', 'test']]
+ 2018-12-13 11:00:18,702 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran']), (15, ['0', 'test'])]
+ 2018-12-13 11:00:18,702 -DEBUG- [(0, ['30', 'Mohammed Numan']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran']), (15, ['0', 'test'])]
+ 2018-12-13 11:00:27,162 -DEBUG- <map object at 0x7f7dd9fd3cc0>
+ 2018-12-13 11:00:29,016 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-13 11:01:00,096 -DEBUG- Question Number is 0The test case is 
+ 2018-12-13 11:01:00,115 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-13 11:01:25,622 -DEBUG- ['print("Hello World")']
+ 2018-12-13 11:01:25,633 -DEBUG- ['1', '0', '30', 'Mohammed Numan', '']
+ 2018-12-13 11:01:25,634 -DEBUG- 1 Id is 5
+ 2018-12-13 11:01:25,635 -DEBUG- ['2', '0 1 2', '10', 'Mohammed Furqan', '']
+ 2018-12-13 11:01:25,636 -DEBUG- 2 Id is 5
+ 2018-12-13 11:01:25,636 -DEBUG- ['3', '0', '5', 'Mukesh', '']
+ 2018-12-13 11:01:25,637 -DEBUG- 3 Id is 5
+ 2018-12-13 11:01:25,641 -DEBUG- ['4', '0 1', '5', 'Kevin Raymond', '']
+ 2018-12-13 11:01:25,642 -DEBUG- 4 Id is 5
+ 2018-12-13 11:01:25,643 -DEBUG- ['5', '0 1 2', '15', 'Piyush', '']
+ 2018-12-13 11:01:25,643 -DEBUG- 5 Id is 5
+ 2018-12-13 11:01:25,644 -DEBUG- ['6', '0', '5', 'Hello', '']
+ 2018-12-13 11:01:25,645 -DEBUG- 6 Id is 5
+ 2018-12-13 11:01:25,646 -DEBUG- ['7', '0', '5', 'Hmm', '']
+ 2018-12-13 11:01:25,646 -DEBUG- 7 Id is 5
+ 2018-12-13 11:01:25,647 -DEBUG- ['8', '0', '5', 'Kevin', '']
+ 2018-12-13 11:01:25,647 -DEBUG- 8 Id is 5
+ 2018-12-13 11:01:25,648 -DEBUG- ['9', '-1 0 1 2 4', '10', 'Brother', '']
+ 2018-12-13 11:01:25,648 -DEBUG- 9 Id is 5
+ 2018-12-13 11:01:25,649 -DEBUG- ['10', '-1 0 1 2', '10', 'Final Check', '']
+ 2018-12-13 11:01:25,650 -DEBUG- 10 Id is 5
+ 2018-12-13 11:01:25,651 -DEBUG- ['11', '-1 1', '0', 'Piyush123', '']
+ 2018-12-13 11:01:25,652 -DEBUG- 11 Id is 5
+ 2018-12-13 11:01:25,653 -DEBUG- ['1', '-1 0', '0', 'Piyush Ranjan', '']
+ 2018-12-13 11:01:25,653 -DEBUG- 1 Id is 5
+ 2018-12-13 11:01:25,654 -DEBUG- ['2', '-1 0', '0', 'pr', '']
+ 2018-12-13 11:01:25,654 -DEBUG- 2 Id is 5
+ 2018-12-13 11:01:25,656 -DEBUG- ['3', '-1', '0', 'parvathy', '']
+ 2018-12-13 11:01:25,657 -DEBUG- 3 Id is 5
+ 2018-12-13 11:01:25,658 -DEBUG- ['4', '-1 0 1', '0', 'imran', '']
+ 2018-12-13 11:01:25,658 -DEBUG- 4 Id is 5
+ 2018-12-13 11:01:25,660 -DEBUG- ['5', '-1', '0', 'test', '']
+ 2018-12-13 11:01:25,660 -DEBUG- 5 Id is 5
+ 2018-12-13 11:01:25,661 -DEBUG- Into The iff....
+ 2018-12-13 11:01:25,661 -DEBUG- -1
+ 2018-12-13 11:01:29,292 -DEBUG- [('<p>Can i have comments on my code??</p>\n\n<pre>\n<code class="language-python">#! /usr/bin/python3.5\nimport sys\n\ndef tic():\n    theBoard = {\'1\': \' \', \'2\': \' \', \'3\': \' \',\n    \'4\': \' \', \'5\': \' \', \'6\': \' \',\n    \'7\': \' \', \'8\': \' \', \'9\': \' \'}\n    taketurn(theBoard)\n\n\ndef printboard(b):\n    print("*"*80)\n    print("{:^80s}".format(b[\'1\']+"|"+b[\'2\']+"|"+b[\'3\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'4\']+"|"+b[\'5\']+"|"+b[\'6\']))\n    print("{:^80s}".format("-+-+-"))\n    print("{:^80s}".format(b[\'7\']+"|"+b[\'8\']+"|"+b[\'9\']))\n    print("*"*80)\n\ndef taketurn(b):\n    turn = \'X\'\n    for i in range(9):\n        printboard(b)\n        b[takemove(b,turn)] = turn\n        check(b,turn)\n        turn = \'X\' if turn==\'O\' else \'O\'\n    print("Its a TIE.....!")\n    printboard(b)\n\ndef check(b,p):\n    if b[\'1\']==b[\'2\']==b[\'3\']==p or b[\'4\']==b[\'5\']==b[\'6\']==p or b[\'7\']==b[\'8\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'4\']==b[\'7\']==p or b[\'2\']==b[\'5\']==b[\'8\']==p or b[\'3\']==b[\'6\']==b[\'9\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\n    if b[\'1\']==b[\'5\']==b[\'9\']==p or b[\'3\']==b[\'5\']==b[\'7\']==p :\n        printboard(b)\n        print("{0:^80s}".format("Player "+p+" Wins"))\n        sys.exit()\n\ndef takemove(b,p):\n    print("Player "+p+".Move on which space?[1-9]")\n    while(True):\n        move = input()\n        if move in b and isempty(b,move):\n            return move\n        else:\n            print("Move should be between [1-9] and should be Valid")\n\ndef isempty(b,m):\n    return True if b[m]==" " else False\n\ndef main():\n    tic()\n\nmain()</code></pre>\n\n<p>This is the code for tic tack toe.....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Now it will work.</p>\n', '\nMohammed Numan\n'), ('\n<p>This is a comment....!</p>\n', '\nMohammed Numan\n'), ('\n<p>Can someone explain me this problem</p>\n', 'Brother\n'), ('\n',)]
+ 2018-12-13 11:01:39,500 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-13 11:02:07,028 -DEBUG- Question Number is 0The test case is 
+ 2018-12-13 11:02:07,031 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-13 11:02:09,191 -DEBUG- ['print("Hello World")']
+ 2018-12-13 11:02:09,205 -DEBUG- ['1', '0', '30', 'Mohammed Numan', '']
+ 2018-12-13 11:02:09,206 -DEBUG- 1 Id is 5
+ 2018-12-13 11:02:09,208 -DEBUG- ['2', '0 1 2', '10', 'Mohammed Furqan', '']
+ 2018-12-13 11:02:09,209 -DEBUG- 2 Id is 5
+ 2018-12-13 11:02:09,210 -DEBUG- ['3', '0', '5', 'Mukesh', '']
+ 2018-12-13 11:02:09,210 -DEBUG- 3 Id is 5
+ 2018-12-13 11:02:09,211 -DEBUG- ['4', '0 1', '5', 'Kevin Raymond', '']
+ 2018-12-13 11:02:09,211 -DEBUG- 4 Id is 5
+ 2018-12-13 11:02:09,212 -DEBUG- ['5', '0 1 2', '15', 'Piyush', '']
+ 2018-12-13 11:02:09,213 -DEBUG- 5 Id is 5
+ 2018-12-13 11:02:09,213 -DEBUG- ['6', '0', '5', 'Hello', '']
+ 2018-12-13 11:02:09,214 -DEBUG- 6 Id is 5
+ 2018-12-13 11:02:09,215 -DEBUG- ['7', '0', '5', 'Hmm', '']
+ 2018-12-13 11:02:09,216 -DEBUG- 7 Id is 5
+ 2018-12-13 11:02:09,217 -DEBUG- ['8', '0', '5', 'Kevin', '']
+ 2018-12-13 11:02:09,217 -DEBUG- 8 Id is 5
+ 2018-12-13 11:02:09,218 -DEBUG- ['9', '-1 0 1 2 4', '10', 'Brother', '']
+ 2018-12-13 11:02:09,219 -DEBUG- 9 Id is 5
+ 2018-12-13 11:02:09,221 -DEBUG- ['10', '-1 0 1 2', '10', 'Final Check', '']
+ 2018-12-13 11:02:09,221 -DEBUG- 10 Id is 5
+ 2018-12-13 11:02:09,222 -DEBUG- ['11', '-1 1', '0', 'Piyush123', '']
+ 2018-12-13 11:02:09,222 -DEBUG- 11 Id is 5
+ 2018-12-13 11:02:09,223 -DEBUG- ['1', '-1 0', '0', 'Piyush Ranjan', '']
+ 2018-12-13 11:02:09,223 -DEBUG- 1 Id is 5
+ 2018-12-13 11:02:09,224 -DEBUG- ['2', '-1 0', '0', 'pr', '']
+ 2018-12-13 11:02:09,224 -DEBUG- 2 Id is 5
+ 2018-12-13 11:02:09,224 -DEBUG- ['3', '-1', '0', 'parvathy', '']
+ 2018-12-13 11:02:09,224 -DEBUG- 3 Id is 5
+ 2018-12-13 11:02:09,225 -DEBUG- ['4', '-1 0 1', '0', 'imran', '']
+ 2018-12-13 11:02:09,225 -DEBUG- 4 Id is 5
+ 2018-12-13 11:02:09,225 -DEBUG- ['5', '-1 0', '0', 'test', '']
+ 2018-12-13 11:02:09,225 -DEBUG- 5 Id is 5
+ 2018-12-13 11:02:16,648 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-13 11:02:22,232 -DEBUG- Question Number is 0The test case is 
+ 2018-12-13 11:02:22,236 -WARNING- Bad Request: /index/dashboard/error_or_out
+ 2018-12-13 11:02:26,200 -DEBUG- Question Number is 0The test case is 
+ 2018-12-13 11:02:34,346 -DEBUG- Question Number is 0The test case is 
+ 2018-12-13 11:09:03,310 -WARNING- Not Found: /index/admin.html
+ 2018-12-13 11:09:34,178 -DEBUG- ['', '1\n0\n30\npr\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0 1\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n', '11\n-1 1\n0\nPiyush123\n', '1\n-1 0\n0\nPiyush Ranjan\n', '2\n-1 0\n0\npr\n', '3\n-1\n0\nparvathy\n', '4\n-1 0 1\n0\nimran\n', '5\n-1 0\n0\ntest\n']
+ 2018-12-13 11:09:34,179 -DEBUG- The user is 1
+0
+30
+pr
+
+ 2018-12-13 11:09:34,179 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-12-13 11:09:34,180 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-12-13 11:09:34,180 -DEBUG- The user is 4
+0 1
+5
+Kevin Raymond
+
+ 2018-12-13 11:09:34,181 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-12-13 11:09:34,181 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-12-13 11:09:34,182 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-12-13 11:09:34,182 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-12-13 11:09:34,183 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-12-13 11:09:34,184 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-12-13 11:09:34,184 -DEBUG- The user is 11
+-1 1
+0
+Piyush123
+
+ 2018-12-13 11:09:34,185 -DEBUG- The user is 1
+-1 0
+0
+Piyush Ranjan
+
+ 2018-12-13 11:09:34,185 -DEBUG- The user is 2
+-1 0
+0
+pr
+
+ 2018-12-13 11:09:34,185 -DEBUG- The user is 3
+-1
+0
+parvathy
+
+ 2018-12-13 11:09:34,186 -DEBUG- The user is 4
+-1 0 1
+0
+imran
+
+ 2018-12-13 11:09:34,186 -DEBUG- The user is 5
+-1 0
+0
+test
+
+ 2018-12-13 11:09:34,186 -DEBUG- [['30', 'pr'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check'], ['0', 'Piyush123'], ['0', 'Piyush Ranjan'], ['0', 'pr'], ['0', 'parvathy'], ['0', 'imran'], ['0', 'test']]
+ 2018-12-13 11:09:34,187 -DEBUG- [(0, ['30', 'pr']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran']), (15, ['0', 'test'])]
+ 2018-12-13 11:09:34,187 -DEBUG- [(0, ['30', 'pr']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran']), (15, ['0', 'test'])]
+ 2018-12-13 11:10:24,437 -WARNING- Not Found: /index/admin.html
+ 2018-12-13 11:10:30,005 -WARNING- Not Found: /index/admin.html
+ 2018-12-13 11:10:47,437 -WARNING- Not Found: /index/admin.html
+ 2018-12-13 11:10:48,058 -WARNING- Not Found: /index/admin.html
+ 2018-12-13 11:10:48,172 -WARNING- Not Found: /index/admin.html
+ 2018-12-13 11:10:48,332 -WARNING- Not Found: /index/admin.html
+ 2018-12-13 11:14:04,993 -DEBUG- <map object at 0x7f674040e6a0>
+ 2018-12-13 11:14:06,394 -DEBUG- ['', '1\n0\n30\npr\n', '2\n0 1 2\n10\nMohammed Furqan\n', '3\n0\n5\nMukesh\n', '4\n0 1\n5\nKevin Raymond\n', '5\n0 1 2\n15\nPiyush\n', '6\n0\n5\nHello\n', '7\n0\n5\nHmm\n', '8\n0\n5\nKevin\n', '9\n-1 0 1 2 4\n10\nBrother\n', '10\n-1 0 1 2\n10\nFinal Check\n', '11\n-1 1\n0\nPiyush123\n', '1\n-1 0\n0\nPiyush Ranjan\n', '2\n-1 0\n0\npr\n', '3\n-1\n0\nparvathy\n', '4\n-1 0 1\n0\nimran\n', '5\n-1 0\n0\ntest\n']
+ 2018-12-13 11:14:06,395 -DEBUG- The user is 1
+0
+30
+pr
+
+ 2018-12-13 11:14:06,395 -DEBUG- The user is 2
+0 1 2
+10
+Mohammed Furqan
+
+ 2018-12-13 11:14:06,396 -DEBUG- The user is 3
+0
+5
+Mukesh
+
+ 2018-12-13 11:14:06,396 -DEBUG- The user is 4
+0 1
+5
+Kevin Raymond
+
+ 2018-12-13 11:14:06,397 -DEBUG- The user is 5
+0 1 2
+15
+Piyush
+
+ 2018-12-13 11:14:06,397 -DEBUG- The user is 6
+0
+5
+Hello
+
+ 2018-12-13 11:14:06,397 -DEBUG- The user is 7
+0
+5
+Hmm
+
+ 2018-12-13 11:14:06,398 -DEBUG- The user is 8
+0
+5
+Kevin
+
+ 2018-12-13 11:14:06,398 -DEBUG- The user is 9
+-1 0 1 2 4
+10
+Brother
+
+ 2018-12-13 11:14:06,398 -DEBUG- The user is 10
+-1 0 1 2
+10
+Final Check
+
+ 2018-12-13 11:14:06,399 -DEBUG- The user is 11
+-1 1
+0
+Piyush123
+
+ 2018-12-13 11:14:06,399 -DEBUG- The user is 1
+-1 0
+0
+Piyush Ranjan
+
+ 2018-12-13 11:14:06,400 -DEBUG- The user is 2
+-1 0
+0
+pr
+
+ 2018-12-13 11:14:06,400 -DEBUG- The user is 3
+-1
+0
+parvathy
+
+ 2018-12-13 11:14:06,400 -DEBUG- The user is 4
+-1 0 1
+0
+imran
+
+ 2018-12-13 11:14:06,401 -DEBUG- The user is 5
+-1 0
+0
+test
+
+ 2018-12-13 11:14:06,401 -DEBUG- [['30', 'pr'], ['10', 'Mohammed Furqan'], ['5', 'Mukesh'], ['5', 'Kevin Raymond'], ['15', 'Piyush'], ['5', 'Hello'], ['5', 'Hmm'], ['5', 'Kevin'], ['10', 'Brother'], ['10', 'Final Check'], ['0', 'Piyush123'], ['0', 'Piyush Ranjan'], ['0', 'pr'], ['0', 'parvathy'], ['0', 'imran'], ['0', 'test']]
+ 2018-12-13 11:14:06,402 -DEBUG- [(0, ['30', 'pr']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran']), (15, ['0', 'test'])]
+ 2018-12-13 11:14:06,402 -DEBUG- [(0, ['30', 'pr']), (1, ['15', 'Piyush']), (2, ['10', 'Mohammed Furqan']), (3, ['10', 'Brother']), (4, ['10', 'Final Check']), (5, ['5', 'Mukesh']), (6, ['5', 'Kevin Raymond']), (7, ['5', 'Hello']), (8, ['5', 'Hmm']), (9, ['5', 'Kevin']), (10, ['0', 'Piyush123']), (11, ['0', 'Piyush Ranjan']), (12, ['0', 'pr']), (13, ['0', 'parvathy']), (14, ['0', 'imran']), (15, ['0', 'test'])]
+ 2018-12-13 11:16:53,439 -WARNING- Not Found: /index/admin.html
+ 2018-12-13 11:18:46,902 -DEBUG- <map object at 0x7f084aadc940>
+ 2018-12-13 11:18:48,862 -DEBUG- $$0
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.<br/>
+You've got this!#
+A single line of text denoting inputString(the variable whose contents must be printed).#
+Print Hello, World. on the first line, and the contents of input string on the second line.#
+Welcome to 30 Days of Code!.#
+Hello, World.<br/>
+Welcome to 30 Days of Code.#
+#####
+ 2018-12-13 11:19:46,006 -DEBUG- <map object at 0x7f084aae1048>
+ 2018-12-13 11:37:48,666 -ERROR- Internal Server Error: /index/admin/
+Traceback (most recent call last):
+  File "/home/piyush/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/piyush/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/piyush/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/piyush/LoveToCode/Dashboard/views.py", line 144, in admin
+    request.session['admin']=admin_id
+NameError: name 'admin_id' is not defined
+ 2018-12-13 06:15:00,277 -ERROR- Internal Server Error: /index/admin/
+Traceback (most recent call last):
+  File "/home/piyush/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/piyush/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/piyush/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/piyush/LoveToCode/Dashboard/views.py", line 144, in admin
+    request.session['admin']=admin_id
+NameError: name 'admin_id' is not defined
+ 2018-12-13 06:15:35,519 -ERROR- Internal Server Error: /index/admin/
+Traceback (most recent call last):
+  File "/home/piyush/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/piyush/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/piyush/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/piyush/LoveToCode/Dashboard/views.py", line 15, in admin
+    request.session['admin']=admin_id
+NameError: name 'admin_id' is not defined
+ 2018-12-13 06:17:44,596 -ERROR- Internal Server Error: /index/admin/
+Traceback (most recent call last):
+  File "/home/piyush/.local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/piyush/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/piyush/.local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/piyush/LoveToCode/Dashboard/views.py", line 15, in admin
+    request.session['admin']=admin_id
+NameError: name 'admin_id' is not defined

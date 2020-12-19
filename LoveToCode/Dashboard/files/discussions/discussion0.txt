@@ -1,0 +1,80 @@
+<p>Can i have comments on my code??</p>
+
+<pre>
+<code class="language-python">#! /usr/bin/python3.5
+import sys
+
+def tic():
+    theBoard = {'1': ' ', '2': ' ', '3': ' ',
+    '4': ' ', '5': ' ', '6': ' ',
+    '7': ' ', '8': ' ', '9': ' '}
+    taketurn(theBoard)
+
+
+def printboard(b):
+    print("*"*80)
+    print("{:^80s}".format(b['1']+"|"+b['2']+"|"+b['3']))
+    print("{:^80s}".format("-+-+-"))
+    print("{:^80s}".format(b['4']+"|"+b['5']+"|"+b['6']))
+    print("{:^80s}".format("-+-+-"))
+    print("{:^80s}".format(b['7']+"|"+b['8']+"|"+b['9']))
+    print("*"*80)
+
+def taketurn(b):
+    turn = 'X'
+    for i in range(9):
+        printboard(b)
+        b[takemove(b,turn)] = turn
+        check(b,turn)
+        turn = 'X' if turn=='O' else 'O'
+    print("Its a TIE.....!")
+    printboard(b)
+
+def check(b,p):
+    if b['1']==b['2']==b['3']==p or b['4']==b['5']==b['6']==p or b['7']==b['8']==b['9']==p :
+        printboard(b)
+        print("{0:^80s}".format("Player "+p+" Wins"))
+        sys.exit()
+
+    if b['1']==b['4']==b['7']==p or b['2']==b['5']==b['8']==p or b['3']==b['6']==b['9']==p :
+        printboard(b)
+        print("{0:^80s}".format("Player "+p+" Wins"))
+        sys.exit()
+
+    if b['1']==b['5']==b['9']==p or b['3']==b['5']==b['7']==p :
+        printboard(b)
+        print("{0:^80s}".format("Player "+p+" Wins"))
+        sys.exit()
+
+def takemove(b,p):
+    print("Player "+p+".Move on which space?[1-9]")
+    while(True):
+        move = input()
+        if move in b and isempty(b,move):
+            return move
+        else:
+            print("Move should be between [1-9] and should be Valid")
+
+def isempty(b,m):
+    return True if b[m]==" " else False
+
+def main():
+    tic()
+
+main()</code></pre>
+
+<p>This is the code for tic tack toe.....!</p>
+###
+Mohammed Numan
+|1
+<p>Now it will work.</p>
+###
+Mohammed Numan
+|2
+<p>This is a comment....!</p>
+###
+Mohammed Numan
+|3
+<p>Can someone explain me this problem</p>
+###Brother
+|4

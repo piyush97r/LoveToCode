@@ -1,0 +1,28 @@
+  .vue-wrapper {
+    text-align: center;
+  }
+
+  .vue-wrapper #vue {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1224px;
+    text-align: left;
+  }
+  
+  .vue-wrapper #vue .question {
+    margin: 0.75em auto;
+    padding: 0.5em;
+    background: rgba(198, 198, 198, 0.1);
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.25);
+    transition: all 0.1s, border 0.25s ease-out;
+  }
+
+  .vue-wrapper #vue .question .question-and-answer {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(100% - 5em);
+  }
+  
+  .question-and-answer{
+      font-size: 20px;
+  }

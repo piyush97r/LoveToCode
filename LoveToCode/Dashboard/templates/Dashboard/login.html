@@ -1,0 +1,32 @@
+<!DOCTYPE HTML> {% load static %}
+<html>
+
+<head>
+    <link rel="stylesheet" href="{% static 'ProjectDashboard/signup.css' %}">
+    <link rel="stylesheet" href="{% static 'ProjectDashboard/css/boilerform.min.css' %}">
+</head>
+
+<body>
+    <form class="boilerform" method="post">{% csrf_token %}
+        <h1 class="o-heading" style="padding-top:120px">Login..</h1>
+        <div class="c-signup">
+            <div class="c-signup__field c-signup__field--fill">
+                <label for="first_name" class="c-label">User name</label>
+                <input type="text" name="user_name" id="first_name" class="c-input-field" />
+            </div>
+            <div class="c-signup__field c-signup__field--fill">
+                <label for="password" class="c-label">Password</label>
+                <input type="password" name="password" id="password" class="c-input-field" />
+            </div>
+
+            <div class="c-signup__button">
+                <p style="float:left ">Don't have an account??
+                    <a href="{% url 'Dashboard:signup' %}" style="cursor:pointer;color:red;text-decoration:none">SignUp.</a>
+                </p>
+                <button class="c-button" type="submit">Login</button>
+            </div>
+        </div>
+    </form>
+</body>
+
+</html>

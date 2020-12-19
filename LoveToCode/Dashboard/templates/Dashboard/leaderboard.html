@@ -1,0 +1,54 @@
+<!DOCTYPE html> {% load static %}
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/header.css' %}" />
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/leaderboard.css' %}" />
+</head>
+
+<body>
+    {% include "Dashboard/header.html" %}
+    <br/>
+    <br/>
+    <br/>
+    <div class="container">
+        <div class="leaderboard">
+            <div class="leaderboard--header">
+                <div class="leaderboard--item"  style="font-size:20px">
+                    <div class="leaderboard--item--cell leaderboard--item--cell__rank">
+                        <span>Rank</span>
+                    </div>
+                    <div class="leaderboard--item--cell leaderboard--item--cell__user">
+                        <span>User</span>
+                    </div>
+                    <div class="leaderboard--item--cell leaderboard--item--cell__thirty">
+                        <span>Points</span>
+                    </div>
+                </div>
+            </div>
+            {% for number,list in users %}
+            <div class="leaderboard--list">
+                <div class="leaderboard--item">
+                    <div class="leaderboard--item--cell leaderboard--item--cell__rank">
+                        {{number}}
+                    </div>
+                    <div class="leaderboard--item--cell leaderboard--item--cell__user">
+                        {{list.1}}
+                    </div>
+                    <div class="leaderboard--item--cell leaderboard--item--cell__alltime">
+                        {{list.0}}
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <script src="{% static 'ProjectDashboard/jquery/jquery-3.3.1.min.js' %}"></script>
+</body>
+
+</html>

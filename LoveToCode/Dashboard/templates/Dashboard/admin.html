@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/question_header.css' %}" />
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'ProjectDashboard/question.css' %}" />
+    
+    <title>Admin Page</title>
+</head>
+<body >
+    
+    <h1 align="center">Admin Page</h1>
+    <div class="text">
+            <br/>
+            <p>
+                <pre><code style="font-size : 15px">{{ answer|safe }}</code></pre>
+            </p>
+        </div>
+    </div>
+    <h1 align="center">Type Your Question Below</h1>
+    <center>
+        <textarea style="font-family: cursive; width:50%; " name="program" class="editor" id="program" required></textarea>
+    </center>
+    <div id="buttons" style="position:absolute;left:68%">
+        <input type="submit" class="btn green" value="Post">
+    </div>
+    
+</body>
+</html>

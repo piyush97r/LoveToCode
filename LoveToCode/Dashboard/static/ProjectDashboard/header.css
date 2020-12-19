@@ -1,0 +1,74 @@
+.navbar{
+  position:fixed;
+  background-color:#eee;
+  background-image:url('images/logo.png');
+  background-repeat:no-repeat;
+  background-size:contain;
+  height:50px;
+  top:0;left:0;right:0;
+  border-bottom: #BB3E3E 2px solid;
+}
+.navbar ul{
+  margin-top:0px;
+}
+.navbar ul li{
+  display:inline-block;
+  color:#D04646;
+  padding:13px;
+  font-family:'Titillium Web', sans-serif;
+  transition:200ms all linear;
+}
+.navbar a{
+  text-decoration:none;
+}
+.navbar a#spcl:after{content:'';}
+.navbar ul li:hover{
+  background:#D04646;
+  padding:6px;
+  margin:7px 14px;
+  transform:rotate(-4deg);
+  color:#eee;
+  font-weight:600;
+  border-radius:2px;
+}
+.navbar a#spcl li{
+  color:rgb(69, 137, 166);
+}
+.navbar a#spcl li:hover{
+  background:rgb(69, 137, 166);
+  color:#eee;
+}
+.denjin-top{
+  width:100%;
+  margin:0px -800px 0px -800px;
+  padding:0px 800px 0px 800px;
+  height:280px;
+  border-bottom:#B12A2A 3px solid;
+}
+.denjin-content{
+  width:1000px;
+  margin-left:auto;
+  margin-right:auto;
+  position:relative;
+  top:70px;
+  font-size:170%;
+  color:#B12A2A;
+  font-family:'Titillium Web', sans-serif;
+}
+.denjin-content *{
+  font-weight:500;
+  margin:10px;
+}
+.denjin-content h5{
+  font-size:75%;
+}
+.denjin-content div{
+  font-size:70%;
+}
+.denjin-content span{
+  color:#eee;
+  background:#B12A2A;
+  padding:0px 2px 0px 4px;
+  border-radius:2px;
+  font-weight:600;
+}
