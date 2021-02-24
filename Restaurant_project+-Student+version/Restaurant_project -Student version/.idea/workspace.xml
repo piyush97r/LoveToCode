@@ -22,19 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5af1ee2c-f010-4852-902f-7416237e68cd" name="Default Changelist" comment="Upgrad Assignment">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../UPSTAC" beforeDir="false" afterPath="$PROJECT_DIR$/../../UPSTAC" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WhatsApp Image 2021-01-22 at 00.12.34 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WhatsApp Image 2021-01-22 at 00.12.34.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../library-demo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../library-demo/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../library-demo/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../library-demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../library-demo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../library-demo/library-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../library-demo/src/test/java/LibraryTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5af1ee2c-f010-4852-902f-7416237e68cd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +38,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
   </component>
   <component name="ProjectId" id="1j3dWkSDDAPx6QY82pi96lMMvRl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -173,6 +161,7 @@
       <workItem from="1614097938180" duration="233000" />
       <workItem from="1614098182177" duration="26000" />
       <workItem from="1614130985786" duration="1609000" />
+      <workItem from="1614180013763" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="Upgrad Assignment">
       <created>1614096701618</created>
@@ -188,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614097239921</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Upgrad Assignment">
+      <created>1614180250355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614180250355</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
